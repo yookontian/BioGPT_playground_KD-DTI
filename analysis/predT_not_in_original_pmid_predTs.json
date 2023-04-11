@@ -1,0 +1,5805 @@
+[
+  {
+    "id": "11169165",
+    "predT_not_in_original": [
+      "monoamine oxidase type b (mao-b)",
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "11781254",
+    "predT_not_in_original": [
+      "janus kinase 3 (jak-3)"
+    ]
+  },
+  {
+    "id": "12724039",
+    "predT_not_in_original": [
+      "neprilysin"
+    ]
+  },
+  {
+    "id": "1330184",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 4 (mglur4)",
+      "metabotropic glutamate receptor 2 (mglur2)"
+    ]
+  },
+  {
+    "id": "12517773",
+    "predT_not_in_original": [
+      "protein kinase c alpha (prkca)"
+    ]
+  },
+  {
+    "id": "12684257",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 4 (mglur4)"
+    ]
+  },
+  {
+    "id": "14525943",
+    "predT_not_in_original": [
+      "aldose reductase (akr1b1)"
+    ]
+  },
+  {
+    "id": "1449487",
+    "predT_not_in_original": [
+      "aromatic-l-amino-acid decarboxylase"
+    ]
+  },
+  {
+    "id": "12898466",
+    "predT_not_in_original": [
+      "peroxisome proliferator-activated receptor gamma (ppar-gamma)"
+    ]
+  },
+  {
+    "id": "15592721",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9 (mmp-9)",
+      "matrix metalloproteinase-2 (mmp-2)",
+      "matrix metalloproteinase-1 (mmp-1)"
+    ]
+  },
+  {
+    "id": "15940263",
+    "predT_not_in_original": [
+      "inosine-5 '-monophosphate dehydrogenase 1 (impdh1)"
+    ]
+  },
+  {
+    "id": "16183084",
+    "predT_not_in_original": [
+      "excitatory amino acid transporter 1 (slc1a6)",
+      "excitatory amino acid transporter 11 (slc1a16)",
+      "excitatory amino acid transporter 3 (slc1a12)",
+      "excitatory amino acid transporter 2 (slc1a11)",
+      "excitatory amino acid transporter 10 (slc1a15)",
+      "excitatory amino acid transporter 13 (slc1a12)",
+      "excitatory amino acid transporter 8 (slc1a13)",
+      "excitatory amino acid transporter 10 (slc1a13)",
+      "excitatory amino acid transporter 9 (slc1a15)",
+      "excitatory amino acid transporter 4 (slc1a9)",
+      "excitatory amino acid transporter 6 (slc1a11)",
+      "excitatory amino acid transporter 5 (slc1a10)",
+      "excitatory amino acid transporter 9 (slc1a12)",
+      "excitatory amino acid transporter 11 (slc1a17)",
+      "excitatory amino acid transporter 10 (slc1a16)",
+      "excitatory amino acid transporter 4 (slc1a13)",
+      "excitatory amino acid transporter 9 (slc1a14)",
+      "excitatory amino acid transporter 8 (slc1a14)",
+      "excitatory amino acid transporter 7 (slc1a12)",
+      "excitatory amino acid transporter 7 (slc1a13)"
+    ]
+  },
+  {
+    "id": "16317109",
+    "predT_not_in_original": [
+      "voltage-gated potassium channel kv4.2 (kcnh2)",
+      "voltage-gated potassium channel kv2.1 (kcnh2)",
+      "voltage-gated potassium channel kv4.3 (kcnh4)",
+      "voltage-gated potassium channel kv4.2 (kcnh4)",
+      "voltage-gated potassium channel kv3.4 (kcnh3)"
+    ]
+  },
+  {
+    "id": "1380883",
+    "predT_not_in_original": [
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4b"
+    ]
+  },
+  {
+    "id": "10982151",
+    "predT_not_in_original": [
+      "protein kinase c zeta (prkcz)"
+    ]
+  },
+  {
+    "id": "1333791",
+    "predT_not_in_original": [
+      "dna topoisomerase i (top1)"
+    ]
+  },
+  {
+    "id": "15705896",
+    "predT_not_in_original": [
+      "platelet-derived growth factor receptor beta (pdgfrb)"
+    ]
+  },
+  {
+    "id": "15588074",
+    "predT_not_in_original": [
+      "estrogen receptor (esr)"
+    ]
+  },
+  {
+    "id": "18502134",
+    "predT_not_in_original": [
+      "nitric-oxide synthase inducible (nos2)",
+      "nitric-oxide synthase endothelial (nos3)",
+      "nitric-oxide synthase neuronal (nos1)",
+      "nitric-oxide synthase brain (nos1)"
+    ]
+  },
+  {
+    "id": "1720839",
+    "predT_not_in_original": [
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4a",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4g",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4j",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4s",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4f",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4i",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4b",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4e",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4c",
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase 4d"
+    ]
+  },
+  {
+    "id": "18539478",
+    "predT_not_in_original": [
+      "amine oxidase [flavin-containing] b"
+    ]
+  },
+  {
+    "id": "17673572",
+    "predT_not_in_original": [
+      "transient receptor potential cation channel v2 (trpv2)"
+    ]
+  },
+  {
+    "id": "1793063",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase (5-lox)"
+    ]
+  },
+  {
+    "id": "12735986",
+    "predT_not_in_original": [
+      "squalene synthetase (fdft1)"
+    ]
+  },
+  {
+    "id": "16533785",
+    "predT_not_in_original": [
+      "steryl-sulfatase (sts)"
+    ]
+  },
+  {
+    "id": "18761665",
+    "predT_not_in_original": [
+      "creatine kinase u-type, mitochondrial"
+    ]
+  },
+  {
+    "id": "18775810",
+    "predT_not_in_original": [
+      "janus kinase 2 (jak-2)"
+    ]
+  },
+  {
+    "id": "19372565",
+    "predT_not_in_original": [
+      "heat shock protein 90 alpha (hsp90a)"
+    ]
+  },
+  {
+    "id": "12920211",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 5 (mglur5)"
+    ]
+  },
+  {
+    "id": "15550575",
+    "predT_not_in_original": [
+      "sodium-dependent gaba transporter 1",
+      "sodium-dependent gaba transporter 2"
+    ]
+  },
+  {
+    "id": "10809021",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "20075852",
+    "predT_not_in_original": [
+      "ptpn1 messenger rna (ptpn1 mrna)"
+    ]
+  },
+  {
+    "id": "11795505",
+    "predT_not_in_original": [
+      "nuclear factor nf-kappa-b (nfkb)"
+    ]
+  },
+  {
+    "id": "20650633",
+    "predT_not_in_original": [
+      "monoamine oxidase type b (mao-b)",
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "19473193",
+    "predT_not_in_original": [
+      "heme oxygenase-1"
+    ]
+  },
+  {
+    "id": "17328534",
+    "predT_not_in_original": [
+      "human immunodeficiency virus reverse transcriptase (hiv rt)"
+    ]
+  },
+  {
+    "id": "19231207",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "17407277",
+    "predT_not_in_original": [
+      "prostaglandin e2 synthase 1 (cox-1)",
+      "prostaglandin e2 synthase 2 (cox-2)"
+    ]
+  },
+  {
+    "id": "20197390",
+    "predT_not_in_original": [
+      "phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha",
+      "phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta",
+      "phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma"
+    ]
+  },
+  {
+    "id": "20698809",
+    "predT_not_in_original": [
+      "insulin-like growth factor 1 receptor (igf1r)"
+    ]
+  },
+  {
+    "id": "12408725",
+    "predT_not_in_original": [
+      "adenosine a1 receptor (adora1)"
+    ]
+  },
+  {
+    "id": "20237073",
+    "predT_not_in_original": [
+      "stress-activated protein kinase 2a (p38 alpha)"
+    ]
+  },
+  {
+    "id": "21090716",
+    "predT_not_in_original": [
+      "sphingosine-1-phosphate lyase 1 (slc1pl)"
+    ]
+  },
+  {
+    "id": "21487069",
+    "predT_not_in_original": [
+      "prostaglandin d2 receptor 2 (ptgdr2)"
+    ]
+  },
+  {
+    "id": "19342233",
+    "predT_not_in_original": [
+      "monoamine oxidase type b (mao-b)",
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "21806599",
+    "predT_not_in_original": [
+      "proteinase activated receptor 2 (f2r)"
+    ]
+  },
+  {
+    "id": "22335564",
+    "predT_not_in_original": [
+      "s-nitrosoglutathione reductase (gsnor1)"
+    ]
+  },
+  {
+    "id": "17181158",
+    "predT_not_in_original": [
+      "herpes simplex virus thymidine kinase (hsv tk)",
+      "human thymidine kinase 1 (htk-1)",
+      "human thymidine kinase 2 (htk-2)",
+      "human thymidine kinase 1 (htk)",
+      "human deoxycytidine kinase (dck)"
+    ]
+  },
+  {
+    "id": "23873691",
+    "predT_not_in_original": [
+      "heat shock protein 90 alpha (hsp90a)"
+    ]
+  },
+  {
+    "id": "11680513",
+    "predT_not_in_original": [
+      "nuclear factor nf-kappa-b"
+    ]
+  },
+  {
+    "id": "19243862",
+    "predT_not_in_original": [
+      "cholinesterase (bche)"
+    ]
+  },
+  {
+    "id": "23082860",
+    "predT_not_in_original": [
+      "checkpoint kinase-1 (chk1)"
+    ]
+  },
+  {
+    "id": "20711499",
+    "predT_not_in_original": [
+      "camp-specific 3 ', 5' -cyclic phosphodiesterase a"
+    ]
+  },
+  {
+    "id": "24900290",
+    "predT_not_in_original": [
+      "androgen receptor (ar)"
+    ]
+  },
+  {
+    "id": "20674099",
+    "predT_not_in_original": [
+      "monoamine oxidase type b (mao-b)",
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "25594427",
+    "predT_not_in_original": [
+      "trka tyrosine kinase receptor (trka)"
+    ]
+  },
+  {
+    "id": "16290145",
+    "predT_not_in_original": [
+      "succinic semialdehyde dehydrogenase (sldh)"
+    ]
+  },
+  {
+    "id": "16354405",
+    "predT_not_in_original": [
+      "phosphodiesterase 4a (pde4a)",
+      "phosphodiesterase 4b (pde4b)",
+      "phosphodiesterase 4d (pde4d)"
+    ]
+  },
+  {
+    "id": "25893041",
+    "predT_not_in_original": [
+      "prmt5 (prmt5)",
+      "prmt7 (prmt7)"
+    ]
+  },
+  {
+    "id": "25326383",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m1 (chrm1)"
+    ]
+  },
+  {
+    "id": "26085101",
+    "predT_not_in_original": [
+      "insulin-degrading enzyme (idne)"
+    ]
+  },
+  {
+    "id": "22397330",
+    "predT_not_in_original": [
+      "sphingosine kinase 1 (sphk1)"
+    ]
+  },
+  {
+    "id": "17174166",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "11587361",
+    "predT_not_in_original": [
+      "histone deacetylase 6 (hdac6)"
+    ]
+  },
+  {
+    "id": "8094614",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase (hmgcr)"
+    ]
+  },
+  {
+    "id": "7838118",
+    "predT_not_in_original": [
+      "bombesin receptor (bs)"
+    ]
+  },
+  {
+    "id": "9003517",
+    "predT_not_in_original": [
+      "caax farnesyltransferase beta (fntb)"
+    ]
+  },
+  {
+    "id": "7654020",
+    "predT_not_in_original": [
+      "3 beta-hydroxysteroid dehydrogenase / delta 5-- > 4-isomerase type 1"
+    ]
+  },
+  {
+    "id": "9714138",
+    "predT_not_in_original": [
+      "sodium / taurocholate cotransporting polypeptide (ntcp)"
+    ]
+  },
+  {
+    "id": "26095375",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "9489619",
+    "predT_not_in_original": [
+      "soluble guanylyl cyclase (gucy2d)"
+    ]
+  },
+  {
+    "id": "11325962",
+    "predT_not_in_original": [
+      "mixed lineage kinase 3 (map3k3)",
+      "dual leucine zipper kinase (map3k4)"
+    ]
+  },
+  {
+    "id": "26203069",
+    "predT_not_in_original": [
+      "neutrophil elastase (ne)"
+    ]
+  },
+  {
+    "id": "23687558",
+    "predT_not_in_original": [
+      "free fatty acid receptor 1 (gpr40)"
+    ]
+  },
+  {
+    "id": "12010810",
+    "predT_not_in_original": [
+      "inhibitor of nuclear factor kappa-b kinase subunit beta"
+    ]
+  },
+  {
+    "id": "19269822",
+    "predT_not_in_original": [
+      "carbonic anhydrase ii (ca-ii)",
+      "carbonic anhydrase xiii (ca-xiii)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)"
+    ]
+  },
+  {
+    "id": "18212024",
+    "predT_not_in_original": [
+      "peroxisome proliferator-activated receptor alpha (ppara)"
+    ]
+  },
+  {
+    "id": "22408693",
+    "predT_not_in_original": [
+      "platelet-activating factor receptor (ptafr)"
+    ]
+  },
+  {
+    "id": "19533338",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "19649632",
+    "predT_not_in_original": [
+      "aurora kinase a (aurka)",
+      "aurora kinase b (aurkb)",
+      "aurora kinase c (aurkc)"
+    ]
+  },
+  {
+    "id": "11104300",
+    "predT_not_in_original": [
+      "protein kinase c beta (prkcb)"
+    ]
+  },
+  {
+    "id": "21903606",
+    "predT_not_in_original": [
+      "focal adhesion kinase 1 (fak)"
+    ]
+  },
+  {
+    "id": "25486573",
+    "predT_not_in_original": [
+      "focal adhesion kinase 1 (fak)"
+    ]
+  },
+  {
+    "id": "2050195",
+    "predT_not_in_original": [
+      "neutrophil elastase (ne)"
+    ]
+  },
+  {
+    "id": "9795865",
+    "predT_not_in_original": [
+      "carbonic anhydrase iv (ca-iv)",
+      "carbonic anhydrase ii (ca-ii)",
+      "carbonic anhydrase xiii (ca-xiii)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)"
+    ]
+  },
+  {
+    "id": "8434028",
+    "predT_not_in_original": [
+      "hmg-coa reductase (hmgcr)"
+    ]
+  },
+  {
+    "id": "10411574",
+    "predT_not_in_original": [
+      "adrenergic receptor beta-3 (adrb3)"
+    ]
+  },
+  {
+    "id": "2106349",
+    "predT_not_in_original": [
+      "phosphatidylinositol-specific phospholipase c (plc)"
+    ]
+  },
+  {
+    "id": "12852771",
+    "predT_not_in_original": [
+      "purine nucleoside phosphorylase (pnp)"
+    ]
+  },
+  {
+    "id": "2403382",
+    "predT_not_in_original": [
+      "hmg-coa reductase (hmgcr)"
+    ]
+  },
+  {
+    "id": "2401858",
+    "predT_not_in_original": [
+      "hmg-coa reductase (hmgcr)"
+    ]
+  },
+  {
+    "id": "19519579",
+    "predT_not_in_original": [
+      "protein kinase c delta (prkcd)",
+      "protein kinase c epsilon (prkce)"
+    ]
+  },
+  {
+    "id": "12482574",
+    "predT_not_in_original": [
+      "dna topoisomerase i (top1)"
+    ]
+  },
+  {
+    "id": "12959308",
+    "predT_not_in_original": [
+      "cgmp-inhibited 3 ', 5' -cyclic phosphodiesterase a"
+    ]
+  },
+  {
+    "id": "11361142",
+    "predT_not_in_original": [
+      "xanthine dehydrogenase / oxidase"
+    ]
+  },
+  {
+    "id": "11523064",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "15351792",
+    "predT_not_in_original": [
+      "adenosine a1 receptor (adora1)"
+    ]
+  },
+  {
+    "id": "7788561",
+    "predT_not_in_original": [
+      "glutathione reductase, mitochondrial"
+    ]
+  },
+  {
+    "id": "11023077",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "24044867",
+    "predT_not_in_original": [
+      "mixed lineage kinase 3 (map3k3)"
+    ]
+  },
+  {
+    "id": "22999882",
+    "predT_not_in_original": [
+      "sphingosine-1-phosphate receptor 1 (s1pr1)"
+    ]
+  },
+  {
+    "id": "21620961",
+    "predT_not_in_original": [
+      "sphingosine kinase 2 (sphk2)"
+    ]
+  },
+  {
+    "id": "23791076",
+    "predT_not_in_original": [
+      "ubiquitin-specific peptidase 5 (usp5)"
+    ]
+  },
+  {
+    "id": "20004577",
+    "predT_not_in_original": [
+      "neutrophil elastase (ne)"
+    ]
+  },
+  {
+    "id": "3875100",
+    "predT_not_in_original": [
+      "purine nucleoside phosphorylase (pnp)"
+    ]
+  },
+  {
+    "id": "23466420",
+    "predT_not_in_original": [
+      "dna topoisomerase i (top1)"
+    ]
+  },
+  {
+    "id": "9283721",
+    "predT_not_in_original": [
+      "dopamine beta-hydroxylase"
+    ]
+  },
+  {
+    "id": "9720765",
+    "predT_not_in_original": [
+      "cgmp-inhibited 3 ', 5' -cyclic phosphodiesterase a"
+    ]
+  },
+  {
+    "id": "7834183",
+    "predT_not_in_original": [
+      "histamine h3 receptor (h3r)"
+    ]
+  },
+  {
+    "id": "19679481",
+    "predT_not_in_original": [
+      "nitric-oxide synthase inducible (nos2)",
+      "nitric-oxide synthase endothelial (nos3)",
+      "nitric-oxide synthase brain (nos1)"
+    ]
+  },
+  {
+    "id": "18644716",
+    "predT_not_in_original": [
+      "carbonic anhydrase (ca)"
+    ]
+  },
+  {
+    "id": "9296430",
+    "predT_not_in_original": [
+      "adenosine kinase (adk)"
+    ]
+  },
+  {
+    "id": "14722321",
+    "predT_not_in_original": [
+      "histamine h4 receptor (h4r)"
+    ]
+  },
+  {
+    "id": "15051534",
+    "predT_not_in_original": [
+      "heat shock protein 90 alpha (hsp90a)"
+    ]
+  },
+  {
+    "id": "12798312",
+    "predT_not_in_original": [
+      "glutamate carboxypeptidase ii (gcpii)"
+    ]
+  },
+  {
+    "id": "15550678",
+    "predT_not_in_original": [
+      "melastatin-related protein 3"
+    ]
+  },
+  {
+    "id": "19234140",
+    "predT_not_in_original": [
+      "cyclin-dependent kinase 7 (cdk7)",
+      "cyclin-dependent kinase 9 (cdk9)"
+    ]
+  },
+  {
+    "id": "10411137",
+    "predT_not_in_original": [
+      "23s ribosomal rna"
+    ]
+  },
+  {
+    "id": "11160637",
+    "predT_not_in_original": [
+      "adenosine kinase (adk)"
+    ]
+  },
+  {
+    "id": "11523994",
+    "predT_not_in_original": [
+      "ctp: choline-phosphate cytidylyltransferase a",
+      "ctp: choline-phosphate cytidylyltransferase b"
+    ]
+  },
+  {
+    "id": "9449274",
+    "predT_not_in_original": [
+      "human immunodeficiency virus integrase (hiv-1 int1)"
+    ]
+  },
+  {
+    "id": "11166323",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 8 (mglur8)"
+    ]
+  },
+  {
+    "id": "16203142",
+    "predT_not_in_original": [
+      "carbonic anhydrase ix (ca-ix)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase vi (ca-vi)",
+      "carbonic anhydrase ii (ca-ii)"
+    ]
+  },
+  {
+    "id": "12015200",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 1 (mglur1)"
+    ]
+  },
+  {
+    "id": "11502522",
+    "predT_not_in_original": [
+      "human immunodeficiency virus integrase (hiv-1 int1)"
+    ]
+  },
+  {
+    "id": "12176326",
+    "predT_not_in_original": [
+      "human immunodeficiency virus integrase (hiv integrase)"
+    ]
+  },
+  {
+    "id": "12127543",
+    "predT_not_in_original": [
+      "dopamine transporter (dat)"
+    ]
+  },
+  {
+    "id": "23639801",
+    "predT_not_in_original": [
+      "lysophosphatidic acid receptor 1 (lpar1)"
+    ]
+  },
+  {
+    "id": "12423680",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha (top2-alpha)"
+    ]
+  },
+  {
+    "id": "4144063",
+    "predT_not_in_original": [
+      "histamine h4-decarboxylase"
+    ]
+  },
+  {
+    "id": "12019092",
+    "predT_not_in_original": [
+      "bacterial lipid a deacetylase (bact lpxc)"
+    ]
+  },
+  {
+    "id": "12215656",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "11094341",
+    "predT_not_in_original": [
+      "vitamin d3 receptor (vdr)"
+    ]
+  },
+  {
+    "id": "19182722",
+    "predT_not_in_original": [
+      "72 kda type iv collagenase"
+    ]
+  },
+  {
+    "id": "16188378",
+    "predT_not_in_original": [
+      "corticosteroid 11-beta-dehydrogenase 1 (hsd11b1)"
+    ]
+  },
+  {
+    "id": "12467211",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "18729192",
+    "predT_not_in_original": [
+      "hypoxia-inducible factor 1 alpha (hif-1a)"
+    ]
+  },
+  {
+    "id": "1382554",
+    "predT_not_in_original": [
+      "phosphodiesterase 3a (pde3a)"
+    ]
+  },
+  {
+    "id": "12519058",
+    "predT_not_in_original": [
+      "thymidine phosphorylase (tymp)"
+    ]
+  },
+  {
+    "id": "12464368",
+    "predT_not_in_original": [
+      "glucocorticoid receptor (nr3c1)"
+    ]
+  },
+  {
+    "id": "1456183",
+    "predT_not_in_original": [
+      "protein kinase c alpha (prkca)"
+    ]
+  },
+  {
+    "id": "12879072",
+    "predT_not_in_original": [
+      "transient receptor potential cation channel v4"
+    ]
+  },
+  {
+    "id": "14971899",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "12855651",
+    "predT_not_in_original": [
+      "poly [adp-ribose] polymerase 1 (parp1)"
+    ]
+  },
+  {
+    "id": "15686922",
+    "predT_not_in_original": [
+      "human immunodeficiency virus reverse transcriptase (hiv rt)",
+      "hepatitis c virus rna-dependent rna polymerase (hcv rdrp)",
+      "human deoxyribonucleic acid (hdna)"
+    ]
+  },
+  {
+    "id": "14654249",
+    "predT_not_in_original": [
+      "corticosteroid 11-beta-dehydrogenase 2 (hsd11b2)",
+      "corticosteroid 11-beta-dehydrogenase 1 (hsd11b1)"
+    ]
+  },
+  {
+    "id": "1383623",
+    "predT_not_in_original": [
+      "angiotensin-converting enzyme"
+    ]
+  },
+  {
+    "id": "14757154",
+    "predT_not_in_original": [
+      "acetylcholinesterase (ache)"
+    ]
+  },
+  {
+    "id": "17551319",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 1 (mglur1)"
+    ]
+  },
+  {
+    "id": "11796019",
+    "predT_not_in_original": [
+      "inhibitor of nuclear factor kappa-b kinase subunit alpha"
+    ]
+  },
+  {
+    "id": "17121910",
+    "predT_not_in_original": [
+      "macrophage colony-stimulating factor 1 receptor (ms-csf1r)"
+    ]
+  },
+  {
+    "id": "17050778",
+    "predT_not_in_original": [
+      "sodium / glucose cotransporter 2"
+    ]
+  },
+  {
+    "id": "12519061",
+    "predT_not_in_original": [
+      "cyclin-dependent kinase 1 (cdk1)",
+      "cyclin-dependent kinase 5 (cdk5)",
+      "cyclin-dependent kinase 2 (cdk2)",
+      "cyclin-dependent kinase 2 (cdk1)"
+    ]
+  },
+  {
+    "id": "17352465",
+    "predT_not_in_original": [
+      "glycine receptor subunit beta-8",
+      "glycine receptor subunit alpha-7",
+      "glycine receptor subunit alpha-1",
+      "glycine receptor subunit beta-14",
+      "glycine receptor subunit beta-10",
+      "glycine receptor subunit beta-2",
+      "glycine receptor subunit beta-11",
+      "glycine receptor subunit beta-3",
+      "glycine receptor subunit beta-15",
+      "glycine receptor subunit alpha-3",
+      "glycine receptor subunit beta-12",
+      "glycine receptor subunit alpha-4",
+      "glycine receptor subunit alpha-6",
+      "glycine receptor subunit beta-9",
+      "glycine receptor subunit beta-6",
+      "glycine receptor subunit beta-13",
+      "glycine receptor subunit beta-4",
+      "glycine receptor subunit alpha-2",
+      "glycine receptor subunit alpha-5"
+    ]
+  },
+  {
+    "id": "18603238",
+    "predT_not_in_original": [
+      "prostacyclin receptor (ptgir)"
+    ]
+  },
+  {
+    "id": "1337114",
+    "predT_not_in_original": [
+      "vasopressin v2 receptor (v2r)"
+    ]
+  },
+  {
+    "id": "18499743",
+    "predT_not_in_original": [
+      "transient receptor potential cation channel v4 (trpv4)"
+    ]
+  },
+  {
+    "id": "18556208",
+    "predT_not_in_original": [
+      "angiotensin ii receptor type-3 (agtr3)",
+      "angiotensin ii receptor type-1 (agtr1)",
+      "angiotensin ii receptor type-2 (agtr2)"
+    ]
+  },
+  {
+    "id": "19046886",
+    "predT_not_in_original": [
+      "tyrosinase (tyr)"
+    ]
+  },
+  {
+    "id": "14983978",
+    "predT_not_in_original": [
+      "neuronal acetylcholine receptor subunit alpha-1",
+      "neuronal acetylcholine receptor subunit alpha-5",
+      "neuronal acetylcholine receptor subunit alpha-3",
+      "neuronal acetylcholine receptor subunit beta-2",
+      "neuronal acetylcholine receptor subunit alpha-2",
+      "neuronal acetylcholine receptor subunit beta-7",
+      "neuronal acetylcholine receptor subunit alpha-4",
+      "neuronal acetylcholine receptor subunit alpha-7",
+      "neuronal acetylcholine receptor subunit beta-6",
+      "neuronal acetylcholine receptor subunit beta-3",
+      "neuronal acetylcholine receptor subunit beta-4"
+    ]
+  },
+  {
+    "id": "15745821",
+    "predT_not_in_original": [
+      "carbonic anhydrase iv (ca-iv)",
+      "carbonic anhydrase ii (ca-ii)"
+    ]
+  },
+  {
+    "id": "15908204",
+    "predT_not_in_original": [
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)"
+    ]
+  },
+  {
+    "id": "17993591",
+    "predT_not_in_original": [
+      "phosphodiesterase 4a (pde4a)"
+    ]
+  },
+  {
+    "id": "14998332",
+    "predT_not_in_original": [
+      "adenosine a3 receptor (adora3)",
+      "adenosine a1 receptor (adora1)",
+      "adenosine a2b receptor (adora2b)",
+      "adenosine a2a receptor (adora2a)"
+    ]
+  },
+  {
+    "id": "19466750",
+    "predT_not_in_original": [
+      "estrogen receptor beta"
+    ]
+  },
+  {
+    "id": "18819808",
+    "predT_not_in_original": [
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase ii (ca-ii)"
+    ]
+  },
+  {
+    "id": "19121944",
+    "predT_not_in_original": [
+      "aldose reductase (akr1b1)"
+    ]
+  },
+  {
+    "id": "19321962",
+    "predT_not_in_original": [
+      "phosphodiesterase 4a (pde4a)",
+      "phosphodiesterase 4e (pde4e)",
+      "phosphodiesterase 4b (pde4b)",
+      "phosphodiesterase 4d (pde4d)"
+    ]
+  },
+  {
+    "id": "20036535",
+    "predT_not_in_original": [
+      "na / k-atpase subunit alpha-1",
+      "na / k-atpase subunit alpha-2"
+    ]
+  },
+  {
+    "id": "18778098",
+    "predT_not_in_original": [
+      "phosphodiesterase 5a (pde5a)"
+    ]
+  },
+  {
+    "id": "20075161",
+    "predT_not_in_original": [
+      "ubiquitin-activating enzyme (e1)"
+    ]
+  },
+  {
+    "id": "20022495",
+    "predT_not_in_original": [
+      "tyrosinase (tyr)"
+    ]
+  },
+  {
+    "id": "19808981",
+    "predT_not_in_original": [
+      "serine / threonine-protein kinase atm (map3k4)"
+    ]
+  },
+  {
+    "id": "16107152",
+    "predT_not_in_original": [
+      "histone deacetylase 10 (hdac10)",
+      "histone deacetylase 6 (hdac6)",
+      "histone deacetylase 2 (hdac2)",
+      "histone deacetylase 1 (hdac1)",
+      "histone deacetylase 8 (hdac8)",
+      "histone deacetylase 4 (hdac4)"
+    ]
+  },
+  {
+    "id": "12084007",
+    "predT_not_in_original": [
+      "neutrophil elastase (ne)"
+    ]
+  },
+  {
+    "id": "19873981",
+    "predT_not_in_original": [
+      "poly [adp-ribose] polymerase 2 (parp2)",
+      "poly [adp-ribose] polymerase 1 (parp1)"
+    ]
+  },
+  {
+    "id": "18553919",
+    "predT_not_in_original": [
+      "maltogenic amylase, intestinal"
+    ]
+  },
+  {
+    "id": "19825801",
+    "predT_not_in_original": [
+      "insulin receptor (insr)",
+      "insulin receptor substrate 1 (insr1)",
+      "insulin receptor substrate 2 (insr2)"
+    ]
+  },
+  {
+    "id": "20093036",
+    "predT_not_in_original": [
+      "monoamine oxidase type b (mao-b)",
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "19174555",
+    "predT_not_in_original": [
+      "cyclin-dependent kinase 2 (cdk2)",
+      "cyclin-dependent kinase 1 (cdk1)",
+      "cyclin-dependent kinase 9 (cdk9)"
+    ]
+  },
+  {
+    "id": "17034144",
+    "predT_not_in_original": [
+      "dopamine transporter (dat)"
+    ]
+  },
+  {
+    "id": "2164014",
+    "predT_not_in_original": [
+      "phosphatidylcholine transfer protein (ctp)"
+    ]
+  },
+  {
+    "id": "18703126",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 1 (cox-1)",
+      "prostaglandin g / h synthase 2 (cox-2)"
+    ]
+  },
+  {
+    "id": "20189404",
+    "predT_not_in_original": [
+      "sodium / glucose cotransporter 1 (sglt1)",
+      "sodium / glucose cotransporter 2 (sglt2)"
+    ]
+  },
+  {
+    "id": "23614898",
+    "predT_not_in_original": [
+      "extracellular signal-regulated kinase 1 / 2 (erk1 / 2)"
+    ]
+  },
+  {
+    "id": "20145145",
+    "predT_not_in_original": [
+      "hepatocyte growth factor receptor (hgfr1)",
+      "vascular endothelial growth factor receptor 2 (kdr)",
+      "platelet-derived growth factor receptor alpha (pdgfra)",
+      "proto-oncogene c-met (met)"
+    ]
+  },
+  {
+    "id": "22998443",
+    "predT_not_in_original": [
+      "dual specificity tyrosine phosphorylation regulated kinase 9 (dyrk9)",
+      "cyclin-dependent kinase 2 (cdk2)",
+      "dual specificity tyrosine phosphorylation regulated kinase 6 (dyrk6)",
+      "cyclin-dependent kinase 6 (cdk6)",
+      "dual specificity tyrosine phosphorylation regulated kinase 1a (dyrk1a)",
+      "dual specificity tyrosine phosphorylation regulated kinase 3 (dyrk3)",
+      "cyclin-dependent kinase 1 (cdk1)",
+      "cyclin-dependent kinase 4 (cdk4)",
+      "dual specificity tyrosine phosphorylation regulated kinase 2 (dyrk2)",
+      "dual specificity tyrosine phosphorylation regulated kinase 4 (dyrk4)",
+      "cyclin-dependent kinase 7 (cdk7)",
+      "dual specificity tyrosine phosphorylation regulated kinase 7 (dyrk7)"
+    ]
+  },
+  {
+    "id": "23686835",
+    "predT_not_in_original": [
+      "polo-like kinase 1 (plk1)"
+    ]
+  },
+  {
+    "id": "21632869",
+    "predT_not_in_original": [
+      "sphingosine-1-phosphate receptor 3 (s1pr3)",
+      "sphingosine-1-phosphate receptor 1 (s1pr1)",
+      "sphingosine-1-phosphate receptor 5 (s1pr5)"
+    ]
+  },
+  {
+    "id": "20472431",
+    "predT_not_in_original": [
+      "cholinesterase (bche)",
+      "acetylcholinesterase (ache)"
+    ]
+  },
+  {
+    "id": "2550587",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "26137956",
+    "predT_not_in_original": [
+      "myeloperoxidase (mpo)"
+    ]
+  },
+  {
+    "id": "25642174",
+    "predT_not_in_original": [
+      "5-ht 7 receptor (htr7)"
+    ]
+  },
+  {
+    "id": "23721199",
+    "predT_not_in_original": [
+      "peroxisome proliferator-activated receptor alpha (ppara)"
+    ]
+  },
+  {
+    "id": "2556899",
+    "predT_not_in_original": [
+      "phosphodiesterase 3a (pde3a)"
+    ]
+  },
+  {
+    "id": "24784321",
+    "predT_not_in_original": [
+      "dna (cytosine-5) -methyltransferase 1"
+    ]
+  },
+  {
+    "id": "7544433",
+    "predT_not_in_original": [
+      "nitric-oxide synthase brain (nos1)"
+    ]
+  },
+  {
+    "id": "2833314",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase (5-lox)"
+    ]
+  },
+  {
+    "id": "7646517",
+    "predT_not_in_original": [
+      "bombesin receptor (bs)"
+    ]
+  },
+  {
+    "id": "19375309",
+    "predT_not_in_original": [
+      "carbonic anhydrase ii (ca-ii)",
+      "carbonic anhydrase xiii (ca-xiii)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)"
+    ]
+  },
+  {
+    "id": "26164151",
+    "predT_not_in_original": [
+      "estrogen receptor (esr)"
+    ]
+  },
+  {
+    "id": "23685546",
+    "predT_not_in_original": [
+      "sodium-dependent dopamine transporter (dat)",
+      "sodium-dependent serotonin transporter (sert)",
+      "sodium-dependent noradrenaline transporter (slc18a1)"
+    ]
+  },
+  {
+    "id": "8667369",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 4 (mglur4)"
+    ]
+  },
+  {
+    "id": "9144637",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 4 (mglur4)"
+    ]
+  },
+  {
+    "id": "9225298",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 6"
+    ]
+  },
+  {
+    "id": "9225293",
+    "predT_not_in_original": [
+      "5-ht 4 receptor (htr4)"
+    ]
+  },
+  {
+    "id": "8051291",
+    "predT_not_in_original": [
+      "dopamine d1 receptor (d1r)"
+    ]
+  },
+  {
+    "id": "9341167",
+    "predT_not_in_original": [
+      "geranyltranstransferase i (ggtase-i)"
+    ]
+  },
+  {
+    "id": "3683366",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor"
+    ]
+  },
+  {
+    "id": "7966130",
+    "predT_not_in_original": [
+      "sucrase-isomaltase-related protein 14 (sagr14)",
+      "sucrase-isomaltase-related protein 3 (sagr3)",
+      "sucrase-isomaltase-related protein 11 (sagr11)",
+      "sucrase-isomaltase-related protein 6 (sagr6)",
+      "sucrase-isomaltase-related protein 2 (sagr2)",
+      "sucrase-isomaltase-related protein 13 (sagr13)",
+      "sucrase-isomaltase-related protein 4 (sagr4)",
+      "sucrase-isomaltase-related protein 1 (sagr1)",
+      "sucrase-isomaltase-related protein 8 (sagr8)",
+      "sucrase-isomaltase-related protein 5 (sagr5)",
+      "sucrase-isomaltase-related protein 7 (sagr7)",
+      "maltase-glucoamylase (mgam)",
+      "sucrase-isomaltase-related protein 10 (sagr10)",
+      "sucrase-isomaltase (sa)",
+      "sucrase-isomaltase-related protein 12 (sagr12)",
+      "sucrase-isomaltase-related protein 9 (sagr9)"
+    ]
+  },
+  {
+    "id": "21602033",
+    "predT_not_in_original": [
+      "melanocortin receptor 5 (mc5r)"
+    ]
+  },
+  {
+    "id": "9486313",
+    "predT_not_in_original": [
+      "carnitine o-palmitoyltransferase 1 (cpt1b)"
+    ]
+  },
+  {
+    "id": "9515580",
+    "predT_not_in_original": [
+      "endothelin b receptor (ednrb)"
+    ]
+  },
+  {
+    "id": "3091593",
+    "predT_not_in_original": [
+      "purine nucleoside phosphorylase (pnp)"
+    ]
+  },
+  {
+    "id": "9219316",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "9463476",
+    "predT_not_in_original": [
+      "excitatory amino acid transporter 2 (slc1a11)"
+    ]
+  },
+  {
+    "id": "7473180",
+    "predT_not_in_original": [
+      "dopamine d3 receptor (d3r)"
+    ]
+  },
+  {
+    "id": "9459568",
+    "predT_not_in_original": [
+      "5-ht 2b receptor (htr2b)"
+    ]
+  },
+  {
+    "id": "8967990",
+    "predT_not_in_original": [
+      "dopamine d4 receptor (d4r)"
+    ]
+  },
+  {
+    "id": "9927308",
+    "predT_not_in_original": [
+      "estrogen receptor (esr)"
+    ]
+  },
+  {
+    "id": "9677277",
+    "predT_not_in_original": [
+      "secretory phospholipase a2 (spla2)"
+    ]
+  },
+  {
+    "id": "19309543",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase"
+    ]
+  },
+  {
+    "id": "9832463",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "20117937",
+    "predT_not_in_original": [
+      "monoamine oxidase type b (mao-b)",
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "9730917",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 6"
+    ]
+  },
+  {
+    "id": "2829916",
+    "predT_not_in_original": [
+      "xanthine dehydrogenase / oxidase"
+    ]
+  },
+  {
+    "id": "19272427",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m1"
+    ]
+  },
+  {
+    "id": "12183689",
+    "predT_not_in_original": [
+      "inosine-5 '-monophosphate dehydrogenase 2 (impdh2)"
+    ]
+  },
+  {
+    "id": "9830031",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase (5-lox)"
+    ]
+  },
+  {
+    "id": "21615147",
+    "predT_not_in_original": [
+      "dual specificity tyrosine phosphorylation regulated kinase 1 (dyrk1)",
+      "dual specificity tyrosine phosphorylation regulated kinase 2 (dyrk2)"
+    ]
+  },
+  {
+    "id": "11562269",
+    "predT_not_in_original": [
+      "histamine h3 receptor (h3r)"
+    ]
+  },
+  {
+    "id": "23493311",
+    "predT_not_in_original": [
+      "heat shock protein 90 alpha (hsp90a)"
+    ]
+  },
+  {
+    "id": "24858947",
+    "predT_not_in_original": [
+      "glucokinase (gck)"
+    ]
+  },
+  {
+    "id": "9202063",
+    "predT_not_in_original": [
+      "protein kinase c beta (prkcb)"
+    ]
+  },
+  {
+    "id": "12070533",
+    "predT_not_in_original": [
+      "coagulation factor x"
+    ]
+  },
+  {
+    "id": "18379655",
+    "predT_not_in_original": [
+      "neutral endopeptidase (mme)"
+    ]
+  },
+  {
+    "id": "11043448",
+    "predT_not_in_original": [
+      "endothelin-converting enzyme (ece)"
+    ]
+  },
+  {
+    "id": "12490313",
+    "predT_not_in_original": [
+      "histone deacetylase (hdac)"
+    ]
+  },
+  {
+    "id": "10202856",
+    "predT_not_in_original": [
+      "5-ht 4 receptor (htr4)"
+    ]
+  },
+  {
+    "id": "10454496",
+    "predT_not_in_original": [
+      "bombesin receptor (bs)"
+    ]
+  },
+  {
+    "id": "7675827",
+    "predT_not_in_original": [
+      "amine oxidase [flavin-containing] b"
+    ]
+  },
+  {
+    "id": "10217294",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "25864491",
+    "predT_not_in_original": [
+      "bromodomain-containing protein 7 (brd7)",
+      "bromodomain-containing protein 9 (brd9)"
+    ]
+  },
+  {
+    "id": "11171737",
+    "predT_not_in_original": [
+      "5-ht 2a receptor (htr2a)"
+    ]
+  },
+  {
+    "id": "10994809",
+    "predT_not_in_original": [
+      "glucose-6-phosphate translocase (slc37a4)"
+    ]
+  },
+  {
+    "id": "11123368",
+    "predT_not_in_original": [
+      "adenosine kinase (adk)"
+    ]
+  },
+  {
+    "id": "11316659",
+    "predT_not_in_original": [
+      "c-x-c chemokine receptor type 2 (cxcr2)"
+    ]
+  },
+  {
+    "id": "11472217",
+    "predT_not_in_original": [
+      "tnf converting enzyme (adam17)"
+    ]
+  },
+  {
+    "id": "11388695",
+    "predT_not_in_original": [
+      "aldose reductase (akr1b1)"
+    ]
+  },
+  {
+    "id": "11261201",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha (top2-alpha)"
+    ]
+  },
+  {
+    "id": "11181893",
+    "predT_not_in_original": [
+      "calcium-activated potassium channel subunit alpha-2"
+    ]
+  },
+  {
+    "id": "11714892",
+    "predT_not_in_original": [
+      "5-ht 1a receptor (htr1a)"
+    ]
+  },
+  {
+    "id": "11827975",
+    "predT_not_in_original": [
+      "transformation-sensitive protein p120 (trpv4)"
+    ]
+  },
+  {
+    "id": "11495587",
+    "predT_not_in_original": [
+      "plasminogen (plg)",
+      "coagulation factor xa (f10)",
+      "tissue-type plasminogen activator (pla)",
+      "coagulation factor iia (f2)"
+    ]
+  },
+  {
+    "id": "11925109",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9 (mmp-9)"
+    ]
+  },
+  {
+    "id": "11311059",
+    "predT_not_in_original": [
+      "bacterial 6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase (bact folp)"
+    ]
+  },
+  {
+    "id": "11490365",
+    "predT_not_in_original": [
+      "protein kinase c epsilon (prkce)"
+    ]
+  },
+  {
+    "id": "11996957",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "12119506",
+    "predT_not_in_original": [
+      "chymase (cym)"
+    ]
+  },
+  {
+    "id": "19509223",
+    "predT_not_in_original": [
+      "lysophosphatidic acid receptor 2 (lpar2)",
+      "lysophosphatidic acid receptor 6 (lpar6)",
+      "lysophosphatidic acid receptor 3 (lpar3)",
+      "lysophosphatidic acid receptor 1 (lpar1)",
+      "lysophosphatidic acid receptor 5 (lpar5)",
+      "lysophosphatidic acid receptor 4 (lpar4)"
+    ]
+  },
+  {
+    "id": "12163455",
+    "predT_not_in_original": [
+      "cathepsin s (ctss)"
+    ]
+  },
+  {
+    "id": "12193009",
+    "predT_not_in_original": [
+      "human immunodeficiency virus tat protein (hiv tat)"
+    ]
+  },
+  {
+    "id": "12050551",
+    "predT_not_in_original": [
+      "nuclear factor nf-kappa-b"
+    ]
+  },
+  {
+    "id": "11978643",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4 (dpp-4)"
+    ]
+  },
+  {
+    "id": "11753684",
+    "predT_not_in_original": [
+      "apoptosis regulator bcl-2"
+    ]
+  },
+  {
+    "id": "12028749",
+    "predT_not_in_original": [
+      "inhibitor of nuclear factor kappa-b kinase subunit beta"
+    ]
+  },
+  {
+    "id": "11886528",
+    "predT_not_in_original": [
+      "atp-sensitive inward rectifier potassium channel 11"
+    ]
+  },
+  {
+    "id": "14505498",
+    "predT_not_in_original": [
+      "kynureninase (kyn)"
+    ]
+  },
+  {
+    "id": "14633714",
+    "predT_not_in_original": [
+      "methionine aminopeptidase 2 (metap2)"
+    ]
+  },
+  {
+    "id": "14638549",
+    "predT_not_in_original": [
+      "caspase-3 (casp3)"
+    ]
+  },
+  {
+    "id": "14722330",
+    "predT_not_in_original": [
+      "oxytocin receptor (otr)"
+    ]
+  },
+  {
+    "id": "13130486",
+    "predT_not_in_original": [
+      "inhibitor of nuclear factor kappa-b kinase (ikk)"
+    ]
+  },
+  {
+    "id": "14988235",
+    "predT_not_in_original": [
+      "glucokinase (gck)"
+    ]
+  },
+  {
+    "id": "3430165",
+    "predT_not_in_original": [
+      "angiotensin-converting enzyme (ace)"
+    ]
+  },
+  {
+    "id": "15170662",
+    "predT_not_in_original": [
+      "urokinase-type plasminogen activator (plau)"
+    ]
+  },
+  {
+    "id": "15175387",
+    "predT_not_in_original": [
+      "transient receptor potential cation channel v3 (trpv3)"
+    ]
+  },
+  {
+    "id": "15025736",
+    "predT_not_in_original": [
+      "motilin receptor (mlnr)"
+    ]
+  },
+  {
+    "id": "1538707",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase activating protein (flaap)",
+      "arachidonate 5-lipoxygenase (5-lox)"
+    ]
+  },
+  {
+    "id": "15322733",
+    "predT_not_in_original": [
+      "5-ht 2b receptor (htr2b)",
+      "5-ht 2c receptor (htr2c)",
+      "5-ht 2a receptor (htr2a)"
+    ]
+  },
+  {
+    "id": "15604281",
+    "predT_not_in_original": [
+      "estrogen receptor (esr)"
+    ]
+  },
+  {
+    "id": "15561959",
+    "predT_not_in_original": [
+      "glucagon receptor (gcgr)"
+    ]
+  },
+  {
+    "id": "12445026",
+    "predT_not_in_original": [
+      "phosphodiesterase 4a (pde4a)"
+    ]
+  },
+  {
+    "id": "12723961",
+    "predT_not_in_original": [
+      "glutamate carboxypeptidase ii (gcpii)"
+    ]
+  },
+  {
+    "id": "15968885",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9 (mmp-9)",
+      "matrix metalloproteinase-2 (mmp-2)",
+      "matrix metalloproteinase-1 (mmp-1)"
+    ]
+  },
+  {
+    "id": "17181151",
+    "predT_not_in_original": [
+      "steryl-sulfatase (sts)",
+      "aromatase (cyp19a1)"
+    ]
+  },
+  {
+    "id": "7575746",
+    "predT_not_in_original": [
+      "angiotensin-converting enzyme (ace)"
+    ]
+  },
+  {
+    "id": "16274989",
+    "predT_not_in_original": [
+      "cholinesterase (bche)"
+    ]
+  },
+  {
+    "id": "15815726",
+    "predT_not_in_original": [
+      "fms-like tyrosine kinase 3 (flt-3)"
+    ]
+  },
+  {
+    "id": "15837323",
+    "predT_not_in_original": [
+      "carbonic anhydrase ix (ca-ix)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase ii (ca-ii)"
+    ]
+  },
+  {
+    "id": "16444290",
+    "predT_not_in_original": [
+      "adenosine a1 receptor (adora1)"
+    ]
+  },
+  {
+    "id": "16331286",
+    "predT_not_in_original": [
+      "prostacyclin receptor (ptgir)"
+    ]
+  },
+  {
+    "id": "16621537",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 8",
+      "carbonic anhydrase 5"
+    ]
+  },
+  {
+    "id": "16617338",
+    "predT_not_in_original": [
+      "transient receptor potential cation channel subfamily v member 3",
+      "transient receptor potential cation channel subfamily a member 1"
+    ]
+  },
+  {
+    "id": "17064075",
+    "predT_not_in_original": [
+      "melanin-concentrating hormone receptor 1 (mchr1)"
+    ]
+  },
+  {
+    "id": "17267225",
+    "predT_not_in_original": [
+      "tyrosinase (tyr)"
+    ]
+  },
+  {
+    "id": "17606126",
+    "predT_not_in_original": [
+      "insulin-like growth factor i receptor (igf1r)"
+    ]
+  },
+  {
+    "id": "17627675",
+    "predT_not_in_original": [
+      "dopamine d3 receptor (d3r)"
+    ]
+  },
+  {
+    "id": "18160521",
+    "predT_not_in_original": [
+      "human immunodeficiency virus integrase (hiv integrase)"
+    ]
+  },
+  {
+    "id": "18237275",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m3"
+    ]
+  },
+  {
+    "id": "18298128",
+    "predT_not_in_original": [
+      "histamine h1 receptor (h1r)"
+    ]
+  },
+  {
+    "id": "18498541",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "18164286",
+    "predT_not_in_original": [
+      "motilin receptor (mlnr)"
+    ]
+  },
+  {
+    "id": "1857337",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase (5-lox)"
+    ]
+  },
+  {
+    "id": "18294844",
+    "predT_not_in_original": [
+      "histone deacetylase 10 (hdac10)",
+      "histone deacetylase 6 (hdac6)",
+      "histone deacetylase 2 (hdac2)",
+      "histone deacetylase 1 (hdac1)",
+      "histone deacetylase 8 (hdac8)",
+      "histone deacetylase 4 (hdac4)"
+    ]
+  },
+  {
+    "id": "16686531",
+    "predT_not_in_original": [
+      "glutamate carboxypeptidase ii (gcpii)"
+    ]
+  },
+  {
+    "id": "16722630",
+    "predT_not_in_original": [
+      "platelet-derived growth factor receptor beta (pdgfrb)",
+      "platelet-derived growth factor receptor alpha (pdgfra)"
+    ]
+  },
+  {
+    "id": "17040210",
+    "predT_not_in_original": [
+      "ribosomal s6 kinase gamma-14 (rsk13cg)",
+      "ribosomal s6 kinase gamma-3 (rsk3)",
+      "ribosomal s6 kinase gamma-11 (rsk11cg)",
+      "ribosomal s6 kinase gamma-4 (rsk4cg)",
+      "ribosomal s6 kinase gamma-5 (rsk5)",
+      "ribosomal s6 kinase gamma-8 (rsk8cg)",
+      "ribosomal s6 kinase gamma-6 (rsk6cg)",
+      "ribosomal s6 kinase gamma-17 (rsk17cg)",
+      "ribosomal s6 kinase beta-2 (rsk2)",
+      "ribosomal s6 kinase gamma-18 (rsk18c)",
+      "ribosomal s6 kinase gamma-7 (rsk7cg)",
+      "ribosomal s6 kinase gamma-13 (rsk13cg)",
+      "ribosomal s6 kinase gamma-16 (rsk16cg)",
+      "ribosomal s6 kinase delta-1 (rsk1d1)",
+      "ribosomal s6 kinase gamma-9 (rsk9cg)",
+      "ribosomal s6 kinase gamma-1 (rsk1g)",
+      "ribosomal s6 kinase gamma-15 (rsk15cg)",
+      "ribosomal s6 kinase gamma-2 (rsk2cg)",
+      "ribosomal s6 kinase gamma-12 (rsk12cg)",
+      "ribosomal s6 kinase beta-1 (rsk1b)",
+      "ribosomal s6 kinase gamma-3 (rsk3cg)",
+      "ribosomal s6 kinase gamma-10 (rsk10cg)",
+      "ribosomal s6 kinase alpha-1 (rsk1a)"
+    ]
+  },
+  {
+    "id": "18955585",
+    "predT_not_in_original": [
+      "calcium-activated potassium channel kca2.1 (kcnn2)",
+      "calcium-activated potassium channel kca3.1 (kcnn3)"
+    ]
+  },
+  {
+    "id": "19168402",
+    "predT_not_in_original": [
+      "human immunodeficiency virus type 1 protease"
+    ]
+  },
+  {
+    "id": "19082504",
+    "predT_not_in_original": [
+      "dna gyrase subunit a"
+    ]
+  },
+  {
+    "id": "19117416",
+    "predT_not_in_original": [
+      "poly [adp-ribose] polymerase 2 (parp2)",
+      "poly [adp-ribose] polymerase 1 (parp1)"
+    ]
+  },
+  {
+    "id": "19194470",
+    "predT_not_in_original": [
+      "dna (cytosine-5) -methyltransferase 1"
+    ]
+  },
+  {
+    "id": "19407080",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m1 (chrm1)"
+    ]
+  },
+  {
+    "id": "11740820",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9 (mmp-9)",
+      "matrix metalloproteinase-2 (mmp-2)"
+    ]
+  },
+  {
+    "id": "12815052",
+    "predT_not_in_original": [
+      "fms-like tyrosine kinase 3 (flt-3)"
+    ]
+  },
+  {
+    "id": "19468285",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "19481594",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 1 (cox-1)",
+      "prostaglandin g / h synthase 2 (cox-2)"
+    ]
+  },
+  {
+    "id": "11960381",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9 (mmp-9)",
+      "matrix metalloproteinase-2 (mmp-2)"
+    ]
+  },
+  {
+    "id": "19505081",
+    "predT_not_in_original": [
+      "nitric-oxide synthase inducible (nos2)",
+      "nitric-oxide synthase endothelial (nos3)",
+      "nitric-oxide synthase brain (nos1)"
+    ]
+  },
+  {
+    "id": "18952439",
+    "predT_not_in_original": [
+      "plasmodium plasmepsin 3 (malaria plp3)",
+      "plasmodium plasmepsin 17 (malaria pl17)",
+      "plasmodium plasmepsin 13 (malaria pl13)",
+      "plasmodium plasmepsin 20 (malaria pl20)",
+      "plasmodium plasmepsin 6 (malaria pl6)",
+      "plasmodium plasmepsin 9 (malaria pl9)",
+      "plasmodium plasmepsin 19 (malaria pl19)",
+      "plasmodium plasmepsin 12 (malaria pl12)",
+      "plasmodium plasmepsin 1 (malaria pla1)",
+      "plasmodium plasmepsin 24 (malaria pl24)",
+      "plasmodium plasmepsin 26 (malaria pl26)",
+      "plasmodium plasmepsin 10 (malaria pl10)",
+      "plasmodium plasmepsin 31 (malaria pl31)",
+      "plasmodium plasmepsin 14 (malaria pl14)",
+      "plasmodium plasmepsin 22 (malaria pl22)",
+      "plasmodium plasmepsin 15 (malaria pl15)",
+      "plasmodium plasmepsin 25 (malaria pl25)",
+      "plasmodium plasmepsin 4 (malaria plp4)",
+      "plasmodium plasmepsin 5 (malaria pl5)",
+      "plasmodium plasmepsin 23 (malaria pl23)",
+      "plasmodium plasmepsin 29 (malaria pl29)",
+      "plasmodium plasmepsin 27 (malaria pl27)",
+      "plasmodium plasmepsin 2 (malaria pla2)",
+      "plasmodium plasmepsin 18 (malaria pl18)",
+      "plasmodium plasmepsin 21 (malaria pl21)",
+      "plasmodium plasmepsin 28 (malaria pl28)",
+      "plasmodium plasmepsin 16 (malaria pl16)",
+      "plasmodium plasmepsin 30 (malaria pl30)",
+      "plasmodium plasmepsin 7 (malaria pl7)",
+      "plasmodium plasmepsin 8 (malaria pl8)",
+      "plasmodium plasmepsin 11 (malaria pl11)"
+    ]
+  },
+  {
+    "id": "19033690",
+    "predT_not_in_original": [
+      "nuclear factor nf-kappa-b (nfkb)"
+    ]
+  },
+  {
+    "id": "19465516",
+    "predT_not_in_original": [
+      "ryanodine receptor 1"
+    ]
+  },
+  {
+    "id": "19805508",
+    "predT_not_in_original": [
+      "potassium voltage-gated channel subfamily h member 2"
+    ]
+  },
+  {
+    "id": "19890267",
+    "predT_not_in_original": [
+      "monoamine oxidase type a (mao-a)"
+    ]
+  },
+  {
+    "id": "9364582",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-74",
+      "matrix metalloproteinase-16",
+      "matrix metalloproteinase-20",
+      "matrix metalloproteinase-35",
+      "matrix metalloproteinase-30",
+      "matrix metalloproteinase-51",
+      "matrix metalloproteinase-9",
+      "matrix metalloproteinase-24",
+      "matrix metalloproteinase-2",
+      "matrix metalloproteinase-19",
+      "matrix metalloproteinase-26",
+      "matrix metalloproteinase-38",
+      "matrix metalloproteinase-33",
+      "matrix metalloproteinase-21",
+      "matrix metalloproteinase-93",
+      "matrix metalloproteinase-29",
+      "matrix metalloproteinase-28",
+      "matrix metalloproteinase-25",
+      "matrix metalloproteinase-78",
+      "matrix metalloproteinase-1",
+      "matrix metalloproteinase-12",
+      "matrix metalloproteinase-13",
+      "matrix metalloproteinase-47",
+      "matrix metalloproteinase-31",
+      "matrix metalloproteinase-39",
+      "matrix metalloproteinase-14",
+      "matrix metalloproteinase-87",
+      "matrix metalloproteinase-102",
+      "matrix metalloproteinase-23",
+      "matrix metalloproteinase-15",
+      "matrix metalloproteinase-27",
+      "matrix metalloproteinase-7",
+      "matrix metalloproteinase-72",
+      "matrix metalloproteinase-17",
+      "matrix metalloproteinase-32",
+      "matrix metalloproteinase-96",
+      "matrix metalloproteinase-84",
+      "matrix metalloproteinase-42"
+    ]
+  },
+  {
+    "id": "19837673",
+    "predT_not_in_original": [
+      "reverse transcriptase / rnaseh"
+    ]
+  },
+  {
+    "id": "20100662",
+    "predT_not_in_original": [
+      "corticosteroid 11-beta-dehydrogenase 2 (hsd11b2)",
+      "corticosteroid 11-beta-dehydrogenase 1 (hsd11b1)"
+    ]
+  },
+  {
+    "id": "20158243",
+    "predT_not_in_original": [
+      "histone deacetylase 10 (hdac10)",
+      "histone deacetylase 6 (hdac6)",
+      "histone deacetylase 2 (hdac2)",
+      "histone deacetylase 4 (hdac4)",
+      "histone deacetylase 1 (hdac1)",
+      "histone deacetylase 8 (hdac8)",
+      "histone deacetylase 7 (hdac7)"
+    ]
+  },
+  {
+    "id": "20053768",
+    "predT_not_in_original": [
+      "histone deacetylase 6",
+      "histone deacetylase 3",
+      "histone deacetylase 8"
+    ]
+  },
+  {
+    "id": "20423349",
+    "predT_not_in_original": [
+      "leukotriene cyslt1 receptor (cysltr1)"
+    ]
+  },
+  {
+    "id": "20006931",
+    "predT_not_in_original": [
+      "carbonic anhydrase iv (ca-iv)",
+      "carbonic anhydrase ii (ca-ii)",
+      "carbonic anhydrase xiii (ca-xiii)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)"
+    ]
+  },
+  {
+    "id": "19318574",
+    "predT_not_in_original": [
+      "receptor-type tyrosine-protein kinase flt3",
+      "vascular endothelial growth factor receptor 2"
+    ]
+  },
+  {
+    "id": "20456959",
+    "predT_not_in_original": [
+      "adenosine kinase (adorak)"
+    ]
+  },
+  {
+    "id": "20674354",
+    "predT_not_in_original": [
+      "carbonic anhydrase ii (ca-ii)",
+      "carbonic anhydrase xiii (ca-xiii)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)"
+    ]
+  },
+  {
+    "id": "20457528",
+    "predT_not_in_original": [
+      "lysosomal alpha-galactosidase a (gla)"
+    ]
+  },
+  {
+    "id": "19576231",
+    "predT_not_in_original": [
+      "cannabinoid receptor 1"
+    ]
+  },
+  {
+    "id": "20573155",
+    "predT_not_in_original": [
+      "inhibitor of nuclear factor kappa-b kinase beta (ikkb)"
+    ]
+  },
+  {
+    "id": "19458106",
+    "predT_not_in_original": [
+      "casein kinase i epsilon (csnk1e)"
+    ]
+  },
+  {
+    "id": "18665584",
+    "predT_not_in_original": [
+      "indoleamine 2,3-dioxygenase 2 (ido2)",
+      "indoleamine 2,3-dioxygenase 1 (ido1)"
+    ]
+  },
+  {
+    "id": "21086115",
+    "predT_not_in_original": [
+      "histamine h3 receptor (h3r)"
+    ]
+  },
+  {
+    "id": "21321066",
+    "predT_not_in_original": [
+      "checkpoint kinase-1 (chk1)"
+    ]
+  },
+  {
+    "id": "20172007",
+    "predT_not_in_original": [
+      "neuropeptide s receptor (npsr)"
+    ]
+  },
+  {
+    "id": "21513885",
+    "predT_not_in_original": [
+      "stress-activated protein kinase 2a (p38 alpha)",
+      "casein kinase i gamma (csnk1g2)",
+      "stress-activated protein kinase 2b (p38 beta)",
+      "casein kinase i alpha (csnk1a1)",
+      "casein kinase i delta (csnk1d2)",
+      "casein kinase i gamma (csnk1g3)"
+    ]
+  },
+  {
+    "id": "19663388",
+    "predT_not_in_original": [
+      "cholinesterase (bche)"
+    ]
+  },
+  {
+    "id": "21415217",
+    "predT_not_in_original": [
+      "dna topoisomerase i (top1)"
+    ]
+  },
+  {
+    "id": "20691150",
+    "predT_not_in_original": [
+      "solute carrier family 36 member 2 (slc36a2)"
+    ]
+  },
+  {
+    "id": "21315177",
+    "predT_not_in_original": [
+      "protein kinase c gamma (prkcg)",
+      "protein kinase c delta (prkcd)",
+      "protein kinase c theta (prkcq)",
+      "protein kinase c alpha (prkca)",
+      "protein kinase c zeta (prkcz)"
+    ]
+  },
+  {
+    "id": "20923853",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 5 (mglur5)"
+    ]
+  },
+  {
+    "id": "21335002",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 5 (mglur5)"
+    ]
+  },
+  {
+    "id": "16170024",
+    "predT_not_in_original": [
+      "cyclin-dependent kinase 2 (cdk2)"
+    ]
+  },
+  {
+    "id": "22137790",
+    "predT_not_in_original": [
+      "melanin-concentrating hormone receptor 1 (mchr1)"
+    ]
+  },
+  {
+    "id": "21470207",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 2 (mglur2)"
+    ]
+  },
+  {
+    "id": "22102280",
+    "predT_not_in_original": [
+      "glycogen synthase kinase-3 beta (gsk-3b)"
+    ]
+  },
+  {
+    "id": "21362456",
+    "predT_not_in_original": [
+      "orexin receptor type 2 (hcrtr2)",
+      "orexin receptor type 1 (hcrtr1)",
+      "orexin receptor type 3 (hcrtr3)"
+    ]
+  },
+  {
+    "id": "20717479",
+    "predT_not_in_original": [
+      "tyrosine-protein kinase jak2 (jak2)",
+      "tyrosine-protein kinase bcr-abl (bcr-abl)"
+    ]
+  },
+  {
+    "id": "19887542",
+    "predT_not_in_original": [
+      "macrophage colony-stimulating factor 1 receptor (csf1r)"
+    ]
+  },
+  {
+    "id": "18077363",
+    "predT_not_in_original": [
+      "protein kinase c gamma (prkcg)",
+      "protein kinase c epsilon (prkce)",
+      "protein kinase c delta (prkcd)",
+      "protein kinase c theta (prkcq)",
+      "protein kinase c delta (prkcg)",
+      "protein kinase c beta (prkcb)",
+      "protein kinase c zeta (prkcg)",
+      "protein kinase c alpha (prkca)",
+      "protein kinase c zeta (prkcz)",
+      "protein kinase c epsilon (prkcg)"
+    ]
+  },
+  {
+    "id": "22056373",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4 (dpp-4)"
+    ]
+  },
+  {
+    "id": "1693780",
+    "predT_not_in_original": [
+      "substance-p receptor (tacr1)"
+    ]
+  },
+  {
+    "id": "20704563",
+    "predT_not_in_original": [
+      "p70 ribosomal s6 kinase alpha (s6k1)"
+    ]
+  },
+  {
+    "id": "20223878",
+    "predT_not_in_original": [
+      "sodium-dependent noradrenaline transporter"
+    ]
+  },
+  {
+    "id": "21521773",
+    "predT_not_in_original": [
+      "tyrosine-protein kinase btk (ttk)"
+    ]
+  },
+  {
+    "id": "17493937",
+    "predT_not_in_original": [
+      "sodium / hydrogen exchanger 1"
+    ]
+  },
+  {
+    "id": "15187521",
+    "predT_not_in_original": [
+      "poly [adp-ribose] glycohydrolase (parg)"
+    ]
+  },
+  {
+    "id": "1386885",
+    "predT_not_in_original": [
+      "thromboxane a2 receptor (tbxa2r)"
+    ]
+  },
+  {
+    "id": "12206858",
+    "predT_not_in_original": [
+      "substance-p receptor (tacr1)"
+    ]
+  },
+  {
+    "id": "17210255",
+    "predT_not_in_original": [
+      "proto-oncogene c-src (src)",
+      "tyrosine-protein kinase kit (kit)",
+      "vascular endothelial growth factor receptor 2 (kdr)",
+      "fms-like tyrosine kinase 3 (flt-3)",
+      "platelet-derived growth factor receptor beta (pdgfrb)",
+      "platelet-derived growth factor receptor alpha (pdgfra)"
+    ]
+  },
+  {
+    "id": "11562440",
+    "predT_not_in_original": [
+      "lysophosphatidic acid receptor 1 (lpar1)",
+      "lysophosphatidic acid receptor 3 (lpar3)"
+    ]
+  },
+  {
+    "id": "21964340",
+    "predT_not_in_original": [
+      "bromodomain-containing protein 4 (brd4)"
+    ]
+  },
+  {
+    "id": "2986029",
+    "predT_not_in_original": [
+      "opioid receptor delta (oprd1)"
+    ]
+  },
+  {
+    "id": "24062525",
+    "predT_not_in_original": [
+      "focal adhesion kinase 1"
+    ]
+  },
+  {
+    "id": "16580200",
+    "predT_not_in_original": [
+      "ptpn1 messenger rna (ptpn1 mrna)"
+    ]
+  },
+  {
+    "id": "3509345",
+    "predT_not_in_original": [
+      "sodium-dependent gaba transporter 1"
+    ]
+  },
+  {
+    "id": "24164245",
+    "predT_not_in_original": [
+      "histone deacetylase 6 (hdac6)",
+      "histone deacetylase 2 (hdac2)",
+      "histone deacetylase 4 (hdac4)"
+    ]
+  },
+  {
+    "id": "26208524",
+    "predT_not_in_original": [
+      "serine / threonine-protein kinase b-raf (braf)"
+    ]
+  },
+  {
+    "id": "352331",
+    "predT_not_in_original": [
+      "gamma-aminobutyric acid transaminase"
+    ]
+  },
+  {
+    "id": "7563153",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "7706076",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "27601994",
+    "predT_not_in_original": [
+      "phosphodiesterase 4a (pde4a)",
+      "phosphodiesterase 4b (pde4b)",
+      "phosphodiesterase 4d (pde4d)"
+    ]
+  },
+  {
+    "id": "8096132",
+    "predT_not_in_original": [
+      "histamine h2 receptor (h2r)"
+    ]
+  },
+  {
+    "id": "8257128",
+    "predT_not_in_original": [
+      "human immunodeficiency virus protease (hiv pr)"
+    ]
+  },
+  {
+    "id": "8072241",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase (5-lox)"
+    ]
+  },
+  {
+    "id": "8028228",
+    "predT_not_in_original": [
+      "aldose reductase (akr1b1)"
+    ]
+  },
+  {
+    "id": "8307482",
+    "predT_not_in_original": [
+      "gastrin / cholecystokinin type b receptor (cckbr)"
+    ]
+  },
+  {
+    "id": "8385657",
+    "predT_not_in_original": [
+      "calmodulin (camp)"
+    ]
+  },
+  {
+    "id": "8632314",
+    "predT_not_in_original": [
+      "adenosine a1 receptor (adora1)"
+    ]
+  },
+  {
+    "id": "8812165",
+    "predT_not_in_original": [
+      "lipoxygenase (lox)"
+    ]
+  },
+  {
+    "id": "25380412",
+    "predT_not_in_original": [
+      "free fatty acid receptor 2 (ffar2)"
+    ]
+  },
+  {
+    "id": "8723491",
+    "predT_not_in_original": [
+      "influenza virus cap-dependent endonuclease (influ ne)"
+    ]
+  },
+  {
+    "id": "9078276",
+    "predT_not_in_original": [
+      "s-adenosylmethionine decarboxylase proenzyme (amd1)"
+    ]
+  },
+  {
+    "id": "9003513",
+    "predT_not_in_original": [
+      "glucose-6-phosphate translocase (slc37a4)"
+    ]
+  },
+  {
+    "id": "9253948",
+    "predT_not_in_original": [
+      "plasminogen activator inhibitor 1 (pai-1)"
+    ]
+  },
+  {
+    "id": "6361187",
+    "predT_not_in_original": [
+      "coagulation factor ix",
+      "coagulation factor x",
+      "coagulation factor vii",
+      "coagulation factor xi"
+    ]
+  },
+  {
+    "id": "9341756",
+    "predT_not_in_original": [
+      "tyrosine-protein phosphatase non-receptor type 12"
+    ]
+  },
+  {
+    "id": "9364471",
+    "predT_not_in_original": [
+      "adenosine a3 receptor (adora3)"
+    ]
+  },
+  {
+    "id": "24099220",
+    "predT_not_in_original": [
+      "indoleamine 2,3-dioxygenase 1 (ido1)"
+    ]
+  },
+  {
+    "id": "9393874",
+    "predT_not_in_original": [
+      "choline kinase (chk)"
+    ]
+  },
+  {
+    "id": "9473604",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 7 (mglur7)",
+      "metabotropic glutamate receptor 8 (mglur8)"
+    ]
+  },
+  {
+    "id": "9486652",
+    "predT_not_in_original": [
+      "inward rectifier potassium channel kir3.1 (kcnn4)"
+    ]
+  },
+  {
+    "id": "9693096",
+    "predT_not_in_original": [
+      "herpes simplex virus thymidine kinase (hsv tk)"
+    ]
+  },
+  {
+    "id": "9421405",
+    "predT_not_in_original": [
+      "estrogen receptor (esr)"
+    ]
+  },
+  {
+    "id": "9703919",
+    "predT_not_in_original": [
+      "inosine-5 '-monophosphate dehydrogenase 1"
+    ]
+  },
+  {
+    "id": "9918582",
+    "predT_not_in_original": [
+      "corticotropin-releasing factor receptor 2 (crhr2)"
+    ]
+  },
+  {
+    "id": "24205792",
+    "predT_not_in_original": [
+      "platelet-derived growth factor receptor beta",
+      "mast / stem cell growth factor receptor kit"
+    ]
+  },
+  {
+    "id": "8302271",
+    "predT_not_in_original": [
+      "sodium-dependent dopamine transporter"
+    ]
+  },
+  {
+    "id": "8981918",
+    "predT_not_in_original": [
+      "vasopressin v2 receptor (v2r)"
+    ]
+  },
+  {
+    "id": "12511768",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "18680729",
+    "predT_not_in_original": [
+      "integrin alpha-4"
+    ]
+  },
+  {
+    "id": "1283139",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m1",
+      "muscarinic acetylcholine receptor m2"
+    ]
+  },
+  {
+    "id": "9827575",
+    "predT_not_in_original": [
+      "adenosine a1 receptor (adora1)"
+    ]
+  },
+  {
+    "id": "19109739",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "12656204",
+    "predT_not_in_original": [
+      "hmg-coa reductase (hmgcr)"
+    ]
+  },
+  {
+    "id": "9226103",
+    "predT_not_in_original": [
+      "thromboxane-a synthase (tbxas1)"
+    ]
+  },
+  {
+    "id": "15914334",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "12136904",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase"
+    ]
+  },
+  {
+    "id": "18070954",
+    "predT_not_in_original": [
+      "hepatitis c virus rna-dependent rna polymerase (hcv ns5b)"
+    ]
+  },
+  {
+    "id": "9057982",
+    "predT_not_in_original": [
+      "human immunodeficiency virus protease (hiv pr)"
+    ]
+  },
+  {
+    "id": "11206708",
+    "predT_not_in_original": [
+      "type-1 angiotensin ii receptor"
+    ]
+  },
+  {
+    "id": "12436936",
+    "predT_not_in_original": [
+      "vasopressin v1b receptor (v1br)",
+      "vasopressin v2 receptor (v2r)",
+      "vasopressin v1a receptor (v1ar)"
+    ]
+  },
+  {
+    "id": "26144315",
+    "predT_not_in_original": [
+      "alk tyrosine kinase receptor (alk)"
+    ]
+  },
+  {
+    "id": "7967714",
+    "predT_not_in_original": [
+      "tyrosine-protein kinase abl1"
+    ]
+  },
+  {
+    "id": "8793015",
+    "predT_not_in_original": [
+      "human immunodeficiency virus reverse transcriptase (hiv rt)"
+    ]
+  },
+  {
+    "id": "10530814",
+    "predT_not_in_original": [
+      "metabotropic glutamate receptor 3 (mglur3)",
+      "metabotropic glutamate receptor 7 (mglur7)",
+      "metabotropic glutamate receptor 4 (mglur4)",
+      "metabotropic glutamate receptor 8 (mglur8)",
+      "metabotropic glutamate receptor 2 (mglur2)"
+    ]
+  },
+  {
+    "id": "19281909",
+    "predT_not_in_original": [
+      "histamine h4 receptor (h4r)"
+    ]
+  },
+  {
+    "id": "16891463",
+    "predT_not_in_original": [
+      "platelet-derived growth factor receptor beta",
+      "stem cell factor receptor kit",
+      "vascular endothelial growth factor receptor 2"
+    ]
+  },
+  {
+    "id": "19545590",
+    "predT_not_in_original": [
+      "glucagon-like peptide 1 receptor"
+    ]
+  },
+  {
+    "id": "7759603",
+    "predT_not_in_original": [
+      "dopamine d3 receptor (d3r)"
+    ]
+  },
+  {
+    "id": "15845694",
+    "predT_not_in_original": [
+      "glutamate receptor ionotropic, nmda 3a"
+    ]
+  },
+  {
+    "id": "17459746",
+    "predT_not_in_original": [
+      "human immunodeficiency virus type 1 protease"
+    ]
+  },
+  {
+    "id": "20423340",
+    "predT_not_in_original": [
+      "glutamate receptor ionotropic, nmda 3a"
+    ]
+  },
+  {
+    "id": "14561652",
+    "predT_not_in_original": [
+      "gonadotropin-releasing hormone receptor (gnrhr)"
+    ]
+  },
+  {
+    "id": "3895959",
+    "predT_not_in_original": [
+      "cytochrome p450 51"
+    ]
+  },
+  {
+    "id": "17854027",
+    "predT_not_in_original": [
+      "human immunodeficiency virus type 1 protease"
+    ]
+  },
+  {
+    "id": "3917545",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 1"
+    ]
+  },
+  {
+    "id": "7694675",
+    "predT_not_in_original": [
+      "l-selectin"
+    ]
+  },
+  {
+    "id": "8467506",
+    "predT_not_in_original": [
+      "ptpn1 messenger rna (ptpn1 mrna)"
+    ]
+  },
+  {
+    "id": "10799645",
+    "predT_not_in_original": [
+      "insulin-like growth factor 2 messenger rna"
+    ]
+  },
+  {
+    "id": "2282453",
+    "predT_not_in_original": [
+      "alpha-2a adrenergic receptor"
+    ]
+  },
+  {
+    "id": "18613770",
+    "predT_not_in_original": [
+      "coagulation factor xa (f10)"
+    ]
+  },
+  {
+    "id": "20430844",
+    "predT_not_in_original": [
+      "5-ht 2b receptor (htr2b)"
+    ]
+  },
+  {
+    "id": "25855895",
+    "predT_not_in_original": [
+      "multidrug resistance-associated protein 2 (abcc2)",
+      "multidrug resistance-associated protein 1 (abcc1)"
+    ]
+  },
+  {
+    "id": "16012790",
+    "predT_not_in_original": [
+      "p-glycoprotein 1"
+    ]
+  },
+  {
+    "id": "15562618",
+    "predT_not_in_original": [
+      "dna topoisomerase i (top1)"
+    ]
+  },
+  {
+    "id": "11799102",
+    "predT_not_in_original": [
+      "angiotensinogenase renin (ren)"
+    ]
+  },
+  {
+    "id": "15963471",
+    "predT_not_in_original": [
+      "solute carrier family 29 member 1"
+    ]
+  },
+  {
+    "id": "17468175",
+    "predT_not_in_original": [
+      "dopamine d2 receptor (d2r)",
+      "dopamine d1 receptor (d1r)"
+    ]
+  },
+  {
+    "id": "1359073",
+    "predT_not_in_original": [
+      "amine oxidase [flavin-containing] b"
+    ]
+  },
+  {
+    "id": "2874096",
+    "predT_not_in_original": [
+      "histamine h2 receptor"
+    ]
+  },
+  {
+    "id": "12821478",
+    "predT_not_in_original": [
+      "influenza neuraminidase (influ na)"
+    ]
+  },
+  {
+    "id": "8095733",
+    "predT_not_in_original": [
+      "histamine h2 receptor"
+    ]
+  },
+  {
+    "id": "12411515",
+    "predT_not_in_original": [
+      "nadh dehydrogenase [ubiquinone], mitochondrial"
+    ]
+  },
+  {
+    "id": "3013935",
+    "predT_not_in_original": [
+      "coagulation factor xa (f10)"
+    ]
+  },
+  {
+    "id": "19520577",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 8",
+      "carbonic anhydrase 5"
+    ]
+  },
+  {
+    "id": "3157445",
+    "predT_not_in_original": [
+      "protein kinase c alpha"
+    ]
+  },
+  {
+    "id": "7562537",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2c",
+      "5-hydroxytryptamine receptor 1a",
+      "5-hydroxytryptamine receptor 1d",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "20625077",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "10596692",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 7"
+    ]
+  },
+  {
+    "id": "17902729",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "15531579",
+    "predT_not_in_original": [
+      "serine hydroxymethyltransferase, cytosolic"
+    ]
+  },
+  {
+    "id": "11046078",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "15894081",
+    "predT_not_in_original": [
+      "dopamine d2 receptor (d2r)"
+    ]
+  },
+  {
+    "id": "10194547",
+    "predT_not_in_original": [
+      "dna topoisomerase 1"
+    ]
+  },
+  {
+    "id": "10374898",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m3",
+      "muscarinic acetylcholine receptor m4",
+      "muscarinic acetylcholine receptor m5",
+      "muscarinic acetylcholine receptor m2"
+    ]
+  },
+  {
+    "id": "16128575",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "10649985",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 24",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 11",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 28",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 27",
+      "carbonic anhydrase 26",
+      "carbonic anhydrase 29",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase 22",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 30",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 8",
+      "carbonic anhydrase 5",
+      "carbonic anhydrase 23"
+    ]
+  },
+  {
+    "id": "12080538",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "12538616",
+    "predT_not_in_original": [
+      "thyroid hormone receptor beta"
+    ]
+  },
+  {
+    "id": "17431118",
+    "predT_not_in_original": [
+      "tyrosine-protein kinase abl1"
+    ]
+  },
+  {
+    "id": "11160603",
+    "predT_not_in_original": [
+      "farnesyl pyrophosphate synthase"
+    ]
+  },
+  {
+    "id": "25598831",
+    "predT_not_in_original": [
+      "sodium / glucose cotransporter 2"
+    ]
+  },
+  {
+    "id": "17826101",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "12745435",
+    "predT_not_in_original": [
+      "pi3-kinase gamma (pik3cg)"
+    ]
+  },
+  {
+    "id": "8630722",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase"
+    ]
+  },
+  {
+    "id": "16966178",
+    "predT_not_in_original": [
+      "cytochrome p450 51"
+    ]
+  },
+  {
+    "id": "15322107",
+    "predT_not_in_original": [
+      "bacterial hyaluronate lyase"
+    ]
+  },
+  {
+    "id": "8577935",
+    "predT_not_in_original": [
+      "type-1 angiotensin ii receptor"
+    ]
+  },
+  {
+    "id": "17707775",
+    "predT_not_in_original": [
+      "influenza neuraminidase (influ na)"
+    ]
+  },
+  {
+    "id": "10665514",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2"
+    ]
+  },
+  {
+    "id": "14684332",
+    "predT_not_in_original": [
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 17"
+    ]
+  },
+  {
+    "id": "14971907",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 24",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 11",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 28",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 27",
+      "carbonic anhydrase 26",
+      "carbonic anhydrase 29",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase 22",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 5",
+      "carbonic anhydrase 23"
+    ]
+  },
+  {
+    "id": "12405293",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "28848018",
+    "predT_not_in_original": [
+      "bacterial beta-lactamase (blm)"
+    ]
+  },
+  {
+    "id": "8955860",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "15111016",
+    "predT_not_in_original": [
+      "glutamate receptor ampa (gria)"
+    ]
+  },
+  {
+    "id": "6305451",
+    "predT_not_in_original": [
+      "alpha-2a adrenergic receptor"
+    ]
+  },
+  {
+    "id": "2569356",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "19131665",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 3a"
+    ]
+  },
+  {
+    "id": "19717013",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "11784136",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 24",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 28",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 25",
+      "carbonic anhydrase 27",
+      "carbonic anhydrase 26",
+      "carbonic anhydrase 29",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 30",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 22",
+      "carbonic anhydrase 23"
+    ]
+  },
+  {
+    "id": "9007838",
+    "predT_not_in_original": [
+      "alpha-2a adrenergic receptor"
+    ]
+  },
+  {
+    "id": "7531353",
+    "predT_not_in_original": [
+      "alpha-1b adrenergic receptor",
+      "5-hydroxytryptamine receptor 7",
+      "alpha-2b adrenergic receptor",
+      "alpha-1a adrenergic receptor",
+      "alpha-1d adrenergic receptor",
+      "alpha-2a adrenergic receptor",
+      "5-hydroxytryptamine receptor 1a",
+      "5-hydroxytryptamine receptor 2b",
+      "5-hydroxytryptamine receptor 2c",
+      "alpha-2c adrenergic receptor",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "17026451",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 3a"
+    ]
+  },
+  {
+    "id": "7862741",
+    "predT_not_in_original": [
+      "glutamate receptor ionotropic, nmda 3a"
+    ]
+  },
+  {
+    "id": "8907591",
+    "predT_not_in_original": [
+      "adenosine receptor (ador)"
+    ]
+  },
+  {
+    "id": "10227113",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2c",
+      "5-hydroxytryptamine receptor 2b",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "11470741",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "11440283",
+    "predT_not_in_original": [
+      "catechol-o-methyl-transferase"
+    ]
+  },
+  {
+    "id": "16723495",
+    "predT_not_in_original": [
+      "histamine h2 receptor"
+    ]
+  },
+  {
+    "id": "22200652",
+    "predT_not_in_original": [
+      "alanine aminotransferase, mitochondrial"
+    ]
+  },
+  {
+    "id": "2858133",
+    "predT_not_in_original": [
+      "histamine h2 receptor"
+    ]
+  },
+  {
+    "id": "11179439",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "19703035",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase xiv",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 8",
+      "carbonic anhydrase 5"
+    ]
+  },
+  {
+    "id": "14736236",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2"
+    ]
+  },
+  {
+    "id": "1109354",
+    "predT_not_in_original": [
+      "monoamine oxidase type b",
+      "monoamine oxidase type a"
+    ]
+  },
+  {
+    "id": "2433905",
+    "predT_not_in_original": [
+      "adenosine deaminase (ada)"
+    ]
+  },
+  {
+    "id": "1530666",
+    "predT_not_in_original": [
+      "histamine n-methyltransferase"
+    ]
+  },
+  {
+    "id": "12433810",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "2226620",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "9626023",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "8813577",
+    "predT_not_in_original": [
+      "glutamate receptor 1"
+    ]
+  },
+  {
+    "id": "8150214",
+    "predT_not_in_original": [
+      "alpha-1a adrenergic receptor"
+    ]
+  },
+  {
+    "id": "20153342",
+    "predT_not_in_original": [
+      "acetylcholinesterase"
+    ]
+  },
+  {
+    "id": "11430635",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "17093363",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 3a"
+    ]
+  },
+  {
+    "id": "15258186",
+    "predT_not_in_original": [
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 5b, cytosolic",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 5a, mitochondrial",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 5b, mitochondrial",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 6, mitochondrial",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 7, cytosolic"
+    ]
+  },
+  {
+    "id": "14681337",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "20185318",
+    "predT_not_in_original": [
+      "carbonic anhydrase ii (ca-ii)",
+      "carbonic anhydrase xiii (ca-xiii)",
+      "carbonic anhydrase xii (ca-xii)",
+      "carbonic anhydrase i (ca-i)",
+      "carbonic anhydrase xiv (ca-xiv)",
+      "carbonic anhydrase ix (ca-ix)"
+    ]
+  },
+  {
+    "id": "15561708",
+    "predT_not_in_original": [
+      "xanthine dehydrogenase / oxidase"
+    ]
+  },
+  {
+    "id": "12356834",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2"
+    ]
+  },
+  {
+    "id": "1438284",
+    "predT_not_in_original": [
+      "cholinesterase (bche)"
+    ]
+  },
+  {
+    "id": "15256478",
+    "predT_not_in_original": [
+      "vascular endothelial growth factor a"
+    ]
+  },
+  {
+    "id": "10614682",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "7588320",
+    "predT_not_in_original": [
+      "mineralocorticoid receptor"
+    ]
+  },
+  {
+    "id": "12426403",
+    "predT_not_in_original": [
+      "dna topoisomerase 1"
+    ]
+  },
+  {
+    "id": "16368240",
+    "predT_not_in_original": [
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "11875741",
+    "predT_not_in_original": [
+      "fibroblast growth factor 2"
+    ]
+  },
+  {
+    "id": "7714409",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "17606858",
+    "predT_not_in_original": [
+      "peroxisome proliferator-activated receptor alpha"
+    ]
+  },
+  {
+    "id": "12763661",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9"
+    ]
+  },
+  {
+    "id": "9627096",
+    "predT_not_in_original": [
+      "neurotensin receptor type 2"
+    ]
+  },
+  {
+    "id": "16437532",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m7",
+      "muscarinic acetylcholine receptor m19",
+      "muscarinic acetylcholine receptor m9",
+      "muscarinic acetylcholine receptor m12",
+      "muscarinic acetylcholine receptor m10",
+      "muscarinic acetylcholine receptor m6",
+      "muscarinic acetylcholine receptor m5",
+      "muscarinic acetylcholine receptor m15",
+      "muscarinic acetylcholine receptor m11",
+      "muscarinic acetylcholine receptor m17",
+      "muscarinic acetylcholine receptor m3",
+      "muscarinic acetylcholine receptor m18",
+      "muscarinic acetylcholine receptor m2",
+      "muscarinic acetylcholine receptor m1",
+      "muscarinic acetylcholine receptor m14",
+      "muscarinic acetylcholine receptor m4",
+      "muscarinic acetylcholine receptor m8",
+      "muscarinic acetylcholine receptor m13"
+    ]
+  },
+  {
+    "id": "11256847",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "28842369",
+    "predT_not_in_original": [
+      "voltage-gated sodium channel alpha nav1.3 (scn3a)"
+    ]
+  },
+  {
+    "id": "10418979",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "17296815",
+    "predT_not_in_original": [
+      "fibroblast growth factor receptor 1",
+      "proto-oncogene tyrosine-protein kinase receptor ret",
+      "proto-oncogene tyrosine-protein kinase receptor b-fgr",
+      "vascular endothelial growth factor receptor 3",
+      "platelet-derived growth factor receptor alpha",
+      "proto-oncogene tyrosine-protein kinase receptor b-raf",
+      "vascular endothelial growth factor receptor 2",
+      "platelet-derived growth factor receptor beta",
+      "proto-oncogene tyrosine-protein kinase receptor c-ret",
+      "proto-oncogene tyrosine-protein kinase receptor a"
+    ]
+  },
+  {
+    "id": "11969359",
+    "predT_not_in_original": [
+      "phosphodiesterase 4a (pde4a)",
+      "phosphodiesterase 4e (pde4e)",
+      "phosphodiesterase 4b (pde4b)",
+      "phosphodiesterase 4d (pde4d)"
+    ]
+  },
+  {
+    "id": "21088277",
+    "predT_not_in_original": [
+      "methionine aminopeptidase 2 (metap2)"
+    ]
+  },
+  {
+    "id": "18336310",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase xiii",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase xiv",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 17",
+      "carbonic anhydrase xii",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 5"
+    ]
+  },
+  {
+    "id": "11330337",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m5",
+      "muscarinic acetylcholine receptor m3",
+      "muscarinic acetylcholine receptor m2",
+      "muscarinic acetylcholine receptor m4",
+      "muscarinic acetylcholine receptor m1"
+    ]
+  },
+  {
+    "id": "7625729",
+    "predT_not_in_original": [
+      "progesterone receptor"
+    ]
+  },
+  {
+    "id": "31826690",
+    "predT_not_in_original": [
+      "histone deacetylase 2",
+      "histone deacetylase 1",
+      "histone deacetylase 8",
+      "histone deacetylase 7",
+      "histone deacetylase 9",
+      "histone deacetylase 4",
+      "histone deacetylase 6"
+    ]
+  },
+  {
+    "id": "9169823",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "19828880",
+    "predT_not_in_original": [
+      "kappa-type opioid receptor",
+      "delta-type opioid receptor"
+    ]
+  },
+  {
+    "id": "22753474",
+    "predT_not_in_original": [
+      "bacterial beta-lactamase (bact blaz)"
+    ]
+  },
+  {
+    "id": "12927775",
+    "predT_not_in_original": [
+      "angiotensinogenase renin (ren)"
+    ]
+  },
+  {
+    "id": "17367763",
+    "predT_not_in_original": [
+      "mast / stem cell growth factor receptor kit ligand",
+      "platelet-derived growth factor receptor alpha",
+      "vascular endothelial growth factor receptor 2",
+      "mast / stem cell growth factor receptor kit",
+      "platelet-derived growth factor receptor beta"
+    ]
+  },
+  {
+    "id": "17428103",
+    "predT_not_in_original": [
+      "vasopressin v1a receptor",
+      "vasopressin v2 receptor"
+    ]
+  },
+  {
+    "id": "19601701",
+    "predT_not_in_original": [
+      "endothelin-1 receptor"
+    ]
+  },
+  {
+    "id": "17694093",
+    "predT_not_in_original": [
+      "histone deacetylase 2",
+      "histone deacetylase 10",
+      "histone deacetylase 1",
+      "histone deacetylase 8",
+      "histone deacetylase 11",
+      "histone deacetylase 9",
+      "histone deacetylase 4",
+      "histone deacetylase 6"
+    ]
+  },
+  {
+    "id": "23978416",
+    "predT_not_in_original": [
+      "atp-binding cassette sub-family c member 8"
+    ]
+  },
+  {
+    "id": "20136829",
+    "predT_not_in_original": [
+      "adenosine receptor a2b",
+      "adenosine receptor a2a",
+      "adenosine receptor a3",
+      "adenosine receptor a1"
+    ]
+  },
+  {
+    "id": "10899355",
+    "predT_not_in_original": [
+      "cationic trypsinogen"
+    ]
+  },
+  {
+    "id": "12666133",
+    "predT_not_in_original": [
+      "plasminogen activator inhibitor 1"
+    ]
+  },
+  {
+    "id": "17315049",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "11923794",
+    "predT_not_in_original": [
+      "integrin alpha-iib"
+    ]
+  },
+  {
+    "id": "14760389",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "6123592",
+    "predT_not_in_original": [
+      "alpha-2b adrenergic receptor",
+      "alpha-2c adrenergic receptor",
+      "alpha-2a adrenergic receptor"
+    ]
+  },
+  {
+    "id": "9066111",
+    "predT_not_in_original": [
+      "bacterial beta-lactamase (bact blaz)"
+    ]
+  },
+  {
+    "id": "10664583",
+    "predT_not_in_original": [
+      "plasminogen activator inhibitor 1"
+    ]
+  },
+  {
+    "id": "12720300",
+    "predT_not_in_original": [
+      "urokinase-type plasminogen activator surface receptor"
+    ]
+  },
+  {
+    "id": "16868220",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "19370562",
+    "predT_not_in_original": [
+      "acetylcholinesterase"
+    ]
+  },
+  {
+    "id": "25225185",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 1a",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "16338283",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "16985933",
+    "predT_not_in_original": [
+      "gonadotropin-releasing hormone receptor"
+    ]
+  },
+  {
+    "id": "17558897",
+    "predT_not_in_original": [
+      "glutathione peroxidase 4"
+    ]
+  },
+  {
+    "id": "11327694",
+    "predT_not_in_original": [
+      "mitogen-activated protein kinase 3"
+    ]
+  },
+  {
+    "id": "1989999",
+    "predT_not_in_original": [
+      "adenylosuccinate synthetase, mitochondrial"
+    ]
+  },
+  {
+    "id": "2826773",
+    "predT_not_in_original": [
+      "kappa-type opioid receptor",
+      "delta-type opioid receptor"
+    ]
+  },
+  {
+    "id": "12573452",
+    "predT_not_in_original": [
+      "arachidonate 5-lipoxygenase"
+    ]
+  },
+  {
+    "id": "17085856",
+    "predT_not_in_original": [
+      "gamma-aminobutyric acid receptor subunit alpha-1"
+    ]
+  },
+  {
+    "id": "11106255",
+    "predT_not_in_original": [
+      "aromatic-l-amino-acid decarboxylase"
+    ]
+  },
+  {
+    "id": "8242249",
+    "predT_not_in_original": [
+      "type-1 angiotensin ii receptor"
+    ]
+  },
+  {
+    "id": "12602592",
+    "predT_not_in_original": [
+      "adenosine receptor a2a",
+      "adenosine receptor a1"
+    ]
+  },
+  {
+    "id": "12145276",
+    "predT_not_in_original": [
+      "pi3-kinase gamma"
+    ]
+  },
+  {
+    "id": "9554869",
+    "predT_not_in_original": [
+      "bifunctional dihydrofolate reductase-thymidylate synthase"
+    ]
+  },
+  {
+    "id": "7994817",
+    "predT_not_in_original": [
+      "angiotensinogenase renin (ren)"
+    ]
+  },
+  {
+    "id": "16793069",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "12499203",
+    "predT_not_in_original": [
+      "d-alanine--d-alanine ligase"
+    ]
+  },
+  {
+    "id": "12076183",
+    "predT_not_in_original": [
+      "type-1 angiotensin ii receptor"
+    ]
+  },
+  {
+    "id": "10608050",
+    "predT_not_in_original": [
+      "prothrombin"
+    ]
+  },
+  {
+    "id": "12890998",
+    "predT_not_in_original": [
+      "pancreatic triacylglycerol lipase"
+    ]
+  },
+  {
+    "id": "2492517",
+    "predT_not_in_original": [
+      "glutathione s-transferase p1-1"
+    ]
+  },
+  {
+    "id": "1667255",
+    "predT_not_in_original": [
+      "dna gyrase subunit a"
+    ]
+  },
+  {
+    "id": "20164566",
+    "predT_not_in_original": [
+      "adenosine receptor a2b",
+      "adenosine receptor a2a",
+      "adenosine receptor a1",
+      "adenosine receptor a3"
+    ]
+  },
+  {
+    "id": "19057128",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9"
+    ]
+  },
+  {
+    "id": "20393461",
+    "predT_not_in_original": [
+      "sodium-dependent noradrenaline transporter"
+    ]
+  },
+  {
+    "id": "16490580",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "15242819",
+    "predT_not_in_original": [
+      "histone deacetylase 7",
+      "histone deacetylase 21",
+      "histone deacetylase 29",
+      "histone deacetylase 31",
+      "histone deacetylase 37",
+      "histone deacetylase 6",
+      "histone deacetylase 14",
+      "histone deacetylase 2",
+      "histone deacetylase 33",
+      "histone deacetylase 16",
+      "histone deacetylase 1",
+      "histone deacetylase 17",
+      "histone deacetylase 23",
+      "histone deacetylase 26",
+      "histone deacetylase 34",
+      "histone deacetylase 47",
+      "histone deacetylase 44",
+      "histone deacetylase 50",
+      "histone deacetylase 8",
+      "histone deacetylase 19",
+      "histone deacetylase 28",
+      "histone deacetylase 12",
+      "histone deacetylase 38",
+      "histone deacetylase 15",
+      "histone deacetylase 10",
+      "histone deacetylase 11",
+      "histone deacetylase 13",
+      "histone deacetylase 18",
+      "histone deacetylase 9",
+      "histone deacetylase 4",
+      "histone deacetylase 20",
+      "histone deacetylase 30",
+      "histone deacetylase 36",
+      "histone deacetylase 22"
+    ]
+  },
+  {
+    "id": "16700548",
+    "predT_not_in_original": [
+      "nad (p) h dehydrogenase [quinone] 1"
+    ]
+  },
+  {
+    "id": "15850602",
+    "predT_not_in_original": [
+      "histone deacetylase 2",
+      "histone deacetylase 1",
+      "histone deacetylase 7"
+    ]
+  },
+  {
+    "id": "15166525",
+    "predT_not_in_original": [
+      "histone deacetylase 1"
+    ]
+  },
+  {
+    "id": "15289798",
+    "predT_not_in_original": [
+      "histone deacetylase 2",
+      "histone deacetylase 1",
+      "histone deacetylase 8",
+      "histone deacetylase 7",
+      "histone deacetylase 9",
+      "histone deacetylase 4",
+      "histone deacetylase 6"
+    ]
+  },
+  {
+    "id": "19800913",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "15537743",
+    "predT_not_in_original": [
+      "progesterone receptor messenger rna (pgr mrna)",
+      "estrogen receptor alpha",
+      "androgen receptor messenger rna (ar mrna)",
+      "estrogen receptor beta"
+    ]
+  },
+  {
+    "id": "31368772",
+    "predT_not_in_original": [
+      "glutamate receptor ionotropic, nmda 3a"
+    ]
+  },
+  {
+    "id": "2244291",
+    "predT_not_in_original": [
+      "penicillin-binding protein 1b",
+      "penicillin-binding protein 1a",
+      "penicillin-binding protein 3",
+      "d-alanyl-d-alanine carboxypeptidase dacc",
+      "d-alanyl-d-alanine carboxypeptidase dacb"
+    ]
+  },
+  {
+    "id": "10781449",
+    "predT_not_in_original": [
+      "sodium channel protein type 10 subunit alpha"
+    ]
+  },
+  {
+    "id": "16357952",
+    "predT_not_in_original": [
+      "adenosine receptor a1"
+    ]
+  },
+  {
+    "id": "12689521",
+    "predT_not_in_original": [
+      "peroxisome proliferator-activated receptor gamma"
+    ]
+  },
+  {
+    "id": "18055877",
+    "predT_not_in_original": [
+      "inhibitor of nuclear factor kappa-b kinase alpha"
+    ]
+  },
+  {
+    "id": "16581066",
+    "predT_not_in_original": [
+      "adenosine a2b receptor (adora2b)"
+    ]
+  },
+  {
+    "id": "17305492",
+    "predT_not_in_original": [
+      "quinone reductase 1"
+    ]
+  },
+  {
+    "id": "18789923",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "15992586",
+    "predT_not_in_original": [
+      "dopamine d4 receptor (d4r)"
+    ]
+  },
+  {
+    "id": "11984069",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "26218440",
+    "predT_not_in_original": [
+      "cannabinoid receptor 1"
+    ]
+  },
+  {
+    "id": "16474421",
+    "predT_not_in_original": [
+      "cytochrome p450 19a1"
+    ]
+  },
+  {
+    "id": "11061585",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "16545350",
+    "predT_not_in_original": [
+      "adenosine a2b receptor (adora2b)"
+    ]
+  },
+  {
+    "id": "11101200",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "12462284",
+    "predT_not_in_original": [
+      "reverse transcriptase / rnaseh"
+    ]
+  },
+  {
+    "id": "15550676",
+    "predT_not_in_original": [
+      "dna"
+    ]
+  },
+  {
+    "id": "7554708",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 1"
+    ]
+  },
+  {
+    "id": "3011460",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "18698001",
+    "predT_not_in_original": [
+      "sodium-dependent dopamine transporter"
+    ]
+  },
+  {
+    "id": "16757535",
+    "predT_not_in_original": [
+      "alpha-2c adrenergic receptor"
+    ]
+  },
+  {
+    "id": "2568212",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "10439935",
+    "predT_not_in_original": [
+      "catechol o-methyltransferase"
+    ]
+  },
+  {
+    "id": "9808337",
+    "predT_not_in_original": [
+      "catechol o-methyltransferase"
+    ]
+  },
+  {
+    "id": "6106553",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "14522358",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 1a"
+    ]
+  },
+  {
+    "id": "6086881",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor",
+      "alpha-1b adrenergic receptor",
+      "alpha-2b adrenergic receptor",
+      "alpha-1a adrenergic receptor",
+      "alpha-2a adrenergic receptor",
+      "alpha-2 adrenergic receptor",
+      "alpha-2c adrenergic receptor",
+      "alpha-1 adrenergic receptor",
+      "d-2 dopamine receptor"
+    ]
+  },
+  {
+    "id": "19000823",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "12386148",
+    "predT_not_in_original": [
+      "glutathione reductase, mitochondrial"
+    ]
+  },
+  {
+    "id": "7520908",
+    "predT_not_in_original": [
+      "dopamine d4 receptor",
+      "alpha-1b adrenergic receptor",
+      "dopamine d1 receptor",
+      "alpha-2b adrenergic receptor",
+      "alpha-1a adrenergic receptor",
+      "alpha-2a adrenergic receptor",
+      "dopamine d3 receptor",
+      "alpha-1d adrenergic receptor",
+      "5-hydroxytryptamine receptor 7",
+      "5-hydroxytryptamine receptor 2c",
+      "alpha-2c adrenergic receptor",
+      "5-hydroxytryptamine receptor 1a",
+      "5-hydroxytryptamine receptor 4",
+      "5-hydroxytryptamine receptor 1",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "18488077",
+    "predT_not_in_original": [
+      "influenza neuraminidase (influ na)"
+    ]
+  },
+  {
+    "id": "20695427",
+    "predT_not_in_original": [
+      "influenza neuraminidase (influ na)"
+    ]
+  },
+  {
+    "id": "10531405",
+    "predT_not_in_original": [
+      "dopamine d6 receptor",
+      "dopamine d9 receptor",
+      "dopamine d8 receptor",
+      "dopamine d4 receptor",
+      "dopamine d1 receptor",
+      "dopamine d5 receptor",
+      "dopamine d2 receptor",
+      "dopamine d3 receptor",
+      "dopamine d7 receptor"
+    ]
+  },
+  {
+    "id": "10685600",
+    "predT_not_in_original": [
+      "tubulin beta chain"
+    ]
+  },
+  {
+    "id": "19226257",
+    "predT_not_in_original": [
+      "cannabinoid receptor 2"
+    ]
+  },
+  {
+    "id": "16335785",
+    "predT_not_in_original": [
+      "endothelin a receptor"
+    ]
+  },
+  {
+    "id": "2567267",
+    "predT_not_in_original": [
+      "histamine h2 receptor"
+    ]
+  },
+  {
+    "id": "11810032",
+    "predT_not_in_original": [
+      "estrogen receptor alpha",
+      "estrogen receptor beta"
+    ]
+  },
+  {
+    "id": "23707973",
+    "predT_not_in_original": [
+      "high mobility group box 1 protein"
+    ]
+  },
+  {
+    "id": "12097269",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "6204835",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "15494548",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "3015015",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "8042002",
+    "predT_not_in_original": [
+      "kappa-type opioid receptor"
+    ]
+  },
+  {
+    "id": "12784346",
+    "predT_not_in_original": [
+      "substance-p receptor"
+    ]
+  },
+  {
+    "id": "17656585",
+    "predT_not_in_original": [
+      "reverse transcriptase / rnaseh"
+    ]
+  },
+  {
+    "id": "16971132",
+    "predT_not_in_original": [
+      "polypeptide deformylase (pdf)"
+    ]
+  },
+  {
+    "id": "11113312",
+    "predT_not_in_original": [
+      "dopamine d1 receptor (d1r)"
+    ]
+  },
+  {
+    "id": "28711716",
+    "predT_not_in_original": [
+      "beta-2 adrenergic receptor"
+    ]
+  },
+  {
+    "id": "6094791",
+    "predT_not_in_original": [
+      "kappa-type opioid receptor"
+    ]
+  },
+  {
+    "id": "12421645",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m5",
+      "muscarinic acetylcholine receptor m3",
+      "muscarinic acetylcholine receptor m2",
+      "muscarinic acetylcholine receptor m4",
+      "muscarinic acetylcholine receptor m1"
+    ]
+  },
+  {
+    "id": "11331292",
+    "predT_not_in_original": [
+      "alpha-1a adrenergic receptor"
+    ]
+  },
+  {
+    "id": "9497025",
+    "predT_not_in_original": [
+      "dopamine d4 receptor (d4r)"
+    ]
+  },
+  {
+    "id": "15947888",
+    "predT_not_in_original": [
+      "progesterone receptor"
+    ]
+  },
+  {
+    "id": "3588607",
+    "predT_not_in_original": [
+      "adenosine receptor a2b",
+      "adenosine receptor a7",
+      "adenosine receptor a9",
+      "adenosine receptor a13",
+      "adenosine receptor a3",
+      "adenosine receptor a5",
+      "adenosine receptor a6",
+      "adenosine receptor a4",
+      "adenosine receptor a10",
+      "adenosine receptor a15",
+      "adenosine receptor a11",
+      "adenosine receptor a12",
+      "adenosine receptor a14",
+      "adenosine receptor a8",
+      "adenosine receptor a2a"
+    ]
+  },
+  {
+    "id": "11873706",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "16530171",
+    "predT_not_in_original": [
+      "opioid receptor kappa (oprk1)"
+    ]
+  },
+  {
+    "id": "10685879",
+    "predT_not_in_original": [
+      "sodium-dependent dopamine transporter",
+      "sodium-dependent serotonin transporter"
+    ]
+  },
+  {
+    "id": "8566109",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "7513381",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "7931216",
+    "predT_not_in_original": [
+      "amine oxidase [flavin-containing] b",
+      "amine oxidase [flavin-containing] a"
+    ]
+  },
+  {
+    "id": "15255290",
+    "predT_not_in_original": [
+      "atp-binding cassette sub-family c member 8"
+    ]
+  },
+  {
+    "id": "2997628",
+    "predT_not_in_original": [
+      "adenosine a2b receptor (adora2b)",
+      "adenosine a1 receptor (adora1)",
+      "adenosine a2a receptor (adora2a)"
+    ]
+  },
+  {
+    "id": "10381785",
+    "predT_not_in_original": [
+      "kappa-type opioid receptor"
+    ]
+  },
+  {
+    "id": "9226736",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "10208755",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "16135699",
+    "predT_not_in_original": [
+      "dopamine d4 receptor",
+      "dopamine d2 receptor",
+      "dopamine d3 receptor"
+    ]
+  },
+  {
+    "id": "20512796",
+    "predT_not_in_original": [
+      "estrogen receptor alpha (esr2)"
+    ]
+  },
+  {
+    "id": "17118173",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "6270308",
+    "predT_not_in_original": [
+      "beta-2 adrenergic receptor",
+      "beta-1 adrenergic receptor"
+    ]
+  },
+  {
+    "id": "7554999",
+    "predT_not_in_original": [
+      "histamine h2 receptor"
+    ]
+  },
+  {
+    "id": "11703020",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "8667211",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "10895904",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "17594079",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m4"
+    ]
+  },
+  {
+    "id": "21631396",
+    "predT_not_in_original": [
+      "nuclear factor nf-kappa-b p52",
+      "nuclear factor nf-kappa-b",
+      "nuclear factor nf-kappa-b p50",
+      "nuclear factor nf-kappa-b p105",
+      "nuclear factor nf-kappa-b rna-binding protein 1",
+      "nuclear factor nf-kappa-b p100",
+      "nuclear factor nf-kappa-b p65",
+      "nuclear factor nf-kappa-b c-terminal domain",
+      "activator protein-1 transcription factor"
+    ]
+  },
+  {
+    "id": "8388112",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "14609348",
+    "predT_not_in_original": [
+      "reverse transcriptase / rnaseh"
+    ]
+  },
+  {
+    "id": "10796070",
+    "predT_not_in_original": [
+      "glucocorticoid receptor (nr3c1)"
+    ]
+  },
+  {
+    "id": "12975489",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "10048009",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2"
+    ]
+  },
+  {
+    "id": "17513029",
+    "predT_not_in_original": [
+      "beta-1 adrenergic receptor"
+    ]
+  },
+  {
+    "id": "15669026",
+    "predT_not_in_original": [
+      "dopamine d2 receptor"
+    ]
+  },
+  {
+    "id": "10381057",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 2"
+    ]
+  },
+  {
+    "id": "12967722",
+    "predT_not_in_original": [
+      "beta-2 adrenergic receptor"
+    ]
+  },
+  {
+    "id": "8494570",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "6116801",
+    "predT_not_in_original": [
+      "histamine h2 receptor (h2r)"
+    ]
+  },
+  {
+    "id": "18158073",
+    "predT_not_in_original": [
+      "human immunodeficiency virus type 1 protease"
+    ]
+  },
+  {
+    "id": "6115693",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "10490909",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 1a"
+    ]
+  },
+  {
+    "id": "18343915",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 17"
+    ]
+  },
+  {
+    "id": "9179531",
+    "predT_not_in_original": [
+      "reverse transcriptase / rnaseh"
+    ]
+  },
+  {
+    "id": "10478514",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "15100703",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "16938288",
+    "predT_not_in_original": [
+      "type-1 angiotensin ii receptor"
+    ]
+  },
+  {
+    "id": "11078030",
+    "predT_not_in_original": [
+      "acetylcholinesterase"
+    ]
+  },
+  {
+    "id": "7756657",
+    "predT_not_in_original": [
+      "dna topoisomerase 2-alpha"
+    ]
+  },
+  {
+    "id": "20381591",
+    "predT_not_in_original": [
+      "toll-like receptor 4"
+    ]
+  },
+  {
+    "id": "16843091",
+    "predT_not_in_original": [
+      "vasopressin v2 receptor (v2r)"
+    ]
+  },
+  {
+    "id": "17603555",
+    "predT_not_in_original": [
+      "5 '-amp-activated protein kinase subunit beta-1"
+    ]
+  },
+  {
+    "id": "12435410",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "20625155",
+    "predT_not_in_original": [
+      "cytochrome p450 51"
+    ]
+  },
+  {
+    "id": "26685215",
+    "predT_not_in_original": [
+      "cyclin-dependent kinase 2"
+    ]
+  },
+  {
+    "id": "9029437",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2"
+    ]
+  },
+  {
+    "id": "12520736",
+    "predT_not_in_original": [
+      "dna topoisomerase i (top1)"
+    ]
+  },
+  {
+    "id": "8875343",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 1"
+    ]
+  },
+  {
+    "id": "9454781",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "15659304",
+    "predT_not_in_original": [
+      "vasopressin v1a receptor"
+    ]
+  },
+  {
+    "id": "15788780",
+    "predT_not_in_original": [
+      "opioid receptor mu (mop)"
+    ]
+  },
+  {
+    "id": "12636181",
+    "predT_not_in_original": [
+      "cholinesterase (bche)"
+    ]
+  },
+  {
+    "id": "12773150",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "7648771",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "15748157",
+    "predT_not_in_original": [
+      "3-hydroxy-3-methylglutaryl-coenzyme a reductase"
+    ]
+  },
+  {
+    "id": "26471421",
+    "predT_not_in_original": [
+      "glutamate receptor ionotropic, nmda 3a"
+    ]
+  },
+  {
+    "id": "9551716",
+    "predT_not_in_original": [
+      "neurotensin receptor type 2 (ntsr2)"
+    ]
+  },
+  {
+    "id": "30021858",
+    "predT_not_in_original": [
+      "voltage-gated potassium channel kv11.1 (kcnq2)",
+      "voltage-gated potassium channel kv11.1 (kcnq3)"
+    ]
+  },
+  {
+    "id": "8694852",
+    "predT_not_in_original": [
+      "carnitine o-palmitoyltransferase 1, liver isoform"
+    ]
+  },
+  {
+    "id": "7650688",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "19543428",
+    "predT_not_in_original": [
+      "3-oxo-5-alpha-steroid 4-dehydrogenase 2"
+    ]
+  },
+  {
+    "id": "18068977",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "2857786",
+    "predT_not_in_original": [
+      "muscarinic acetylcholine receptor m3",
+      "muscarinic acetylcholine receptor m4",
+      "muscarinic acetylcholine receptor m1",
+      "muscarinic acetylcholine receptor m2"
+    ]
+  },
+  {
+    "id": "11736858",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "11030016",
+    "predT_not_in_original": [
+      "angiotensin-converting enzyme"
+    ]
+  },
+  {
+    "id": "12606318",
+    "predT_not_in_original": [
+      "cytochrome p450 51"
+    ]
+  },
+  {
+    "id": "10467920",
+    "predT_not_in_original": [
+      "sodium-dependent noradrenaline transporter"
+    ]
+  },
+  {
+    "id": "12909198",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "15018596",
+    "predT_not_in_original": [
+      "estrogen receptor alpha"
+    ]
+  },
+  {
+    "id": "11224713",
+    "predT_not_in_original": [
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 5"
+    ]
+  },
+  {
+    "id": "9541386",
+    "predT_not_in_original": [
+      "carbonic anhydrase 2"
+    ]
+  },
+  {
+    "id": "15306222",
+    "predT_not_in_original": [
+      "alpha-1b adrenergic receptor",
+      "alpha-1a adrenergic receptor",
+      "alpha-1d adrenergic receptor"
+    ]
+  },
+  {
+    "id": "2966691",
+    "predT_not_in_original": [
+      "cytochrome p450 51"
+    ]
+  },
+  {
+    "id": "8301582",
+    "predT_not_in_original": [
+      "dopamine d3 receptor"
+    ]
+  },
+  {
+    "id": "16648137",
+    "predT_not_in_original": [
+      "beta-1 adrenergic receptor"
+    ]
+  },
+  {
+    "id": "8289199",
+    "predT_not_in_original": [
+      "thromboxane a2 receptor (tbxa2r)"
+    ]
+  },
+  {
+    "id": "8831771",
+    "predT_not_in_original": [
+      "thromboxane a2 receptor (tbxa2r)"
+    ]
+  },
+  {
+    "id": "9818968",
+    "predT_not_in_original": [
+      "50s ribosomal protein l10"
+    ]
+  },
+  {
+    "id": "11899840",
+    "predT_not_in_original": [
+      "glutathione s-transferase pi"
+    ]
+  },
+  {
+    "id": "20011245",
+    "predT_not_in_original": [
+      "complement c5"
+    ]
+  },
+  {
+    "id": "8313547",
+    "predT_not_in_original": [
+      "thromboxane-a synthase"
+    ]
+  },
+  {
+    "id": "16990386",
+    "predT_not_in_original": [
+      "complement c5"
+    ]
+  },
+  {
+    "id": "1397064",
+    "predT_not_in_original": [
+      "hydroxysteroid sulfotransferase (hsst)"
+    ]
+  },
+  {
+    "id": "16642666",
+    "predT_not_in_original": [
+      "angiotensin-converting enzyme (ace)"
+    ]
+  },
+  {
+    "id": "15917527",
+    "predT_not_in_original": [
+      "human immunodeficiency virus type 1 protease (hiv pr)"
+    ]
+  },
+  {
+    "id": "8540733",
+    "predT_not_in_original": [
+      "50s ribosomal protein l10"
+    ]
+  },
+  {
+    "id": "12461003",
+    "predT_not_in_original": [
+      "penicillin-binding protein 1a"
+    ]
+  },
+  {
+    "id": "1748153",
+    "predT_not_in_original": [
+      "neuronal acetylcholine receptor subunit alpha-2"
+    ]
+  },
+  {
+    "id": "16433932",
+    "predT_not_in_original": [
+      "kappa-type opioid receptor"
+    ]
+  },
+  {
+    "id": "10444479",
+    "predT_not_in_original": [
+      "phosphodiesterase 3a"
+    ]
+  },
+  {
+    "id": "7492120",
+    "predT_not_in_original": [
+      "dipeptidase 1"
+    ]
+  },
+  {
+    "id": "19065993",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "12930148",
+    "predT_not_in_original": [
+      "cationic trypsinogen (prss1)"
+    ]
+  },
+  {
+    "id": "11313435",
+    "predT_not_in_original": [
+      "sodium-dependent acetylcholine transporter"
+    ]
+  },
+  {
+    "id": "6413485",
+    "predT_not_in_original": [
+      "penicillin-binding protein 3"
+    ]
+  },
+  {
+    "id": "29691340",
+    "predT_not_in_original": [
+      "bacterial beta-lactamase (blm)"
+    ]
+  },
+  {
+    "id": "18600270",
+    "predT_not_in_original": [
+      "carbonic anhydrase 21",
+      "carbonic anhydrase 6",
+      "carbonic anhydrase 14",
+      "carbonic anhydrase 7",
+      "carbonic anhydrase 13",
+      "carbonic anhydrase 20",
+      "carbonic anhydrase 3",
+      "carbonic anhydrase 15",
+      "carbonic anhydrase 12",
+      "carbonic anhydrase 9",
+      "carbonic anhydrase 10",
+      "carbonic anhydrase 1",
+      "carbonic anhydrase 16",
+      "carbonic anhydrase 18",
+      "carbonic anhydrase 19",
+      "carbonic anhydrase 4",
+      "carbonic anhydrase 2",
+      "carbonic anhydrase 17"
+    ]
+  },
+  {
+    "id": "8032658",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2b"
+    ]
+  },
+  {
+    "id": "1705633",
+    "predT_not_in_original": [
+      "angiotensinogenase renin (ren)"
+    ]
+  },
+  {
+    "id": "8762097",
+    "predT_not_in_original": [
+      "p2y purinoceptor 2"
+    ]
+  },
+  {
+    "id": "430210",
+    "predT_not_in_original": [
+      "isocitrate dehydrogenase [nadh], mitochondrial"
+    ]
+  },
+  {
+    "id": "6372801",
+    "predT_not_in_original": [
+      "cytochrome p450 51"
+    ]
+  },
+  {
+    "id": "15203120",
+    "predT_not_in_original": [
+      "cationic trypsinogen"
+    ]
+  },
+  {
+    "id": "31991839",
+    "predT_not_in_original": [
+      "spermine oxidase (spo)"
+    ]
+  },
+  {
+    "id": "16715497",
+    "predT_not_in_original": [
+      "histamine h3 receptor (h3r)"
+    ]
+  },
+  {
+    "id": "2835038",
+    "predT_not_in_original": [
+      "dna topoisomerase 1"
+    ]
+  },
+  {
+    "id": "30596390",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "18182122",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "21406547",
+    "predT_not_in_original": [
+      "microsomal triglyceride transfer protein (mttp)"
+    ]
+  },
+  {
+    "id": "18354714",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "15993560",
+    "predT_not_in_original": [
+      "matrix metalloproteinase-9"
+    ]
+  },
+  {
+    "id": "17026984",
+    "predT_not_in_original": [
+      "aminopeptidase n (anpep)"
+    ]
+  },
+  {
+    "id": "10611634",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 3a",
+      "5-hydroxytryptamine receptor 1b",
+      "alpha-2b adrenergic receptor",
+      "5-hydroxytryptamine receptor 7",
+      "5-hydroxytryptamine receptor 1a",
+      "5-hydroxytryptamine receptor 1d",
+      "alpha-2a adrenergic receptor",
+      "5-hydroxytryptamine receptor 2b",
+      "5-hydroxytryptamine receptor 2c",
+      "alpha-2c adrenergic receptor",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "17172464",
+    "predT_not_in_original": [
+      "neuromedin-k receptor (tacr3)"
+    ]
+  },
+  {
+    "id": "19655822",
+    "predT_not_in_original": [
+      "beta-secretase (bace)"
+    ]
+  },
+  {
+    "id": "18226527",
+    "predT_not_in_original": [
+      "cathepsin k (ctsk)"
+    ]
+  },
+  {
+    "id": "17728699",
+    "predT_not_in_original": [
+      "neuromedin-k receptor (tacr3)"
+    ]
+  },
+  {
+    "id": "22537794",
+    "predT_not_in_original": [
+      "sodium-dependent dopamine transporter"
+    ]
+  },
+  {
+    "id": "11700150",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "7624018",
+    "predT_not_in_original": [
+      "glutamate receptor ionotropic, nmda 3a"
+    ]
+  },
+  {
+    "id": "18541897",
+    "predT_not_in_original": [
+      "vascular endothelial growth factor receptor 1",
+      "proto-oncogene c-src",
+      "vascular endothelial growth factor receptor 5",
+      "vascular endothelial growth factor receptor 3",
+      "platelet-derived growth factor receptor alpha",
+      "vascular endothelial growth factor receptor 2",
+      "vascular endothelial growth factor receptor 4",
+      "platelet-derived growth factor receptor beta",
+      "proto-oncogene c-ret"
+    ]
+  },
+  {
+    "id": "16682937",
+    "predT_not_in_original": [
+      "glucagon-like peptide 1 receptor"
+    ]
+  },
+  {
+    "id": "23590413",
+    "predT_not_in_original": [
+      "sodium / glucose cotransporter 2"
+    ]
+  },
+  {
+    "id": "10997731",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 7"
+    ]
+  },
+  {
+    "id": "20653327",
+    "predT_not_in_original": [
+      "peroxisome proliferator-activated receptor alpha"
+    ]
+  },
+  {
+    "id": "23812802",
+    "predT_not_in_original": [
+      "5-hydroxytryptamine receptor 1a"
+    ]
+  },
+  {
+    "id": "22101373",
+    "predT_not_in_original": [
+      "human immunodeficiency virus integrase (hiv-i)"
+    ]
+  },
+  {
+    "id": "18308814",
+    "predT_not_in_original": [
+      "dopamine d4 receptor",
+      "5-hydroxytryptamine receptor 1b",
+      "5-hydroxytryptamine receptor 7",
+      "alpha-1b adrenergic receptor",
+      "5-hydroxytryptamine receptor 1a",
+      "alpha-1a adrenergic receptor",
+      "dopamine d2 receptor",
+      "alpha-1d adrenergic receptor",
+      "dopamine d3 receptor",
+      "alpha-2 adrenergic receptor",
+      "5-hydroxytryptamine receptor 2b",
+      "5-hydroxytryptamine receptor 2c",
+      "histamine h1 receptor",
+      "5-hydroxytryptamine receptor 6",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "16702880",
+    "predT_not_in_original": [
+      "lysosomal alpha-glucosidase"
+    ]
+  },
+  {
+    "id": "2890779",
+    "predT_not_in_original": [
+      "platelet-activating factor receptor (ptafr)"
+    ]
+  },
+  {
+    "id": "808545",
+    "predT_not_in_original": [
+      "penicillin-binding protein 3"
+    ]
+  },
+  {
+    "id": "22864732",
+    "predT_not_in_original": [
+      "type-1 angiotensin ii receptor"
+    ]
+  },
+  {
+    "id": "7679577",
+    "predT_not_in_original": [
+      "nitric-oxide synthase endothelial (nos3)"
+    ]
+  },
+  {
+    "id": "22149370",
+    "predT_not_in_original": [
+      "dipeptidyl peptidase 4"
+    ]
+  },
+  {
+    "id": "9597647",
+    "predT_not_in_original": [
+      "alpha-2b adrenergic receptor",
+      "alpha-2c adrenergic receptor",
+      "alpha-2a adrenergic receptor",
+      "alpha-2d adrenergic receptor"
+    ]
+  },
+  {
+    "id": "8996188",
+    "predT_not_in_original": [
+      "histamine h1 receptor"
+    ]
+  },
+  {
+    "id": "29693282",
+    "predT_not_in_original": [
+      "protein kinase c alpha (prkca)"
+    ]
+  },
+  {
+    "id": "25261794",
+    "predT_not_in_original": [
+      "opioid receptor delta (oprd1)"
+    ]
+  },
+  {
+    "id": "25026323",
+    "predT_not_in_original": [
+      "mu-type opioid receptor"
+    ]
+  },
+  {
+    "id": "19737995",
+    "predT_not_in_original": [
+      "human immunodeficiency virus reverse transcriptase (hiv rt)"
+    ]
+  },
+  {
+    "id": "12938512",
+    "predT_not_in_original": [
+      "p-glycoprotein 1"
+    ]
+  },
+  {
+    "id": "24602137",
+    "predT_not_in_original": [
+      "p-glycoprotein 1"
+    ]
+  },
+  {
+    "id": "24947465",
+    "predT_not_in_original": [
+      "alpha-1b adrenergic receptor",
+      "5-hydroxytryptamine receptor 7",
+      "5-hydroxytryptamine receptor 1a",
+      "alpha-1a adrenergic receptor",
+      "alpha-1d adrenergic receptor",
+      "5-hydroxytryptamine receptor 2b",
+      "5-hydroxytryptamine receptor 2c",
+      "5-hydroxytryptamine receptor 2a"
+    ]
+  },
+  {
+    "id": "16144976",
+    "predT_not_in_original": [
+      "prostaglandin g / h synthase 1"
+    ]
+  },
+  {
+    "id": "8732994",
+    "predT_not_in_original": [
+      "progesterone receptor"
+    ]
+  },
+  {
+    "id": "27886555",
+    "predT_not_in_original": [
+      "p-glycoprotein 1"
+    ]
+  },
+  {
+    "id": "11467439",
+    "predT_not_in_original": [
+      "prothrombin"
+    ]
+  },
+  {
+    "id": "31117741",
+    "predT_not_in_original": [
+      "vascular endothelial growth factor receptor 3",
+      "mast / stem cell growth factor receptor kit",
+      "vascular endothelial growth factor receptor 2",
+      "proto-oncogene c-kit",
+      "platelet-derived growth factor receptor beta"
+    ]
+  },
+  {
+    "id": "1499567",
+    "predT_not_in_original": [
+      "urokinase-type plasminogen activator surface receptor"
+    ]
+  },
+  {
+    "id": "22235146",
+    "predT_not_in_original": [
+      "proteasome subunit beta type 5"
+    ]
+  },
+  {
+    "id": "28203301",
+    "predT_not_in_original": [
+      "cyclin-dependent kinase 6",
+      "cyclin-dependent kinase 4"
+    ]
+  },
+  {
+    "id": "11781309",
+    "predT_not_in_original": [
+      "serine palmitoyltransferase 1"
+    ]
+  },
+  {
+    "id": "14605254",
+    "predT_not_in_original": [
+      "gonadotropin-releasing hormone receptor"
+    ]
+  },
+  {
+    "id": "10666203",
+    "predT_not_in_original": [
+      "protease-activated receptor 1"
+    ]
+  },
+  {
+    "id": "32315352",
+    "predT_not_in_original": [
+      "fibroblast growth factor receptor 3",
+      "fibroblast growth factor receptor 4",
+      "fibroblast growth factor receptor 2",
+      "fibroblast growth factor receptor 1"
+    ]
+  },
+  {
+    "id": "11854630",
+    "predT_not_in_original": [
+      "gonadotropin-releasing hormone receptor"
+    ]
+  },
+  {
+    "id": "22282722",
+    "predT_not_in_original": [
+      "amine oxidase [flavin-containing] b",
+      "amine oxidase [flavin-containing] a"
+    ]
+  },
+  {
+    "id": "9570694",
+    "predT_not_in_original": [
+      "n-acetyltransferase 1"
+    ]
+  },
+  {
+    "id": "15045033",
+    "predT_not_in_original": [
+      "b-lymphocyte antigen cd20"
+    ]
+  },
+  {
+    "id": "20641600",
+    "predT_not_in_original": [
+      "opioid receptor kappa (oprk1)"
+    ]
+  },
+  {
+    "id": "30987343",
+    "predT_not_in_original": [
+      "herpes simplex virus rna-directed rna polymerase ul30 (hsv ul30)"
+    ]
+  },
+  {
+    "id": "14675103",
+    "predT_not_in_original": [
+      "sodium-dependent serotonin transporter"
+    ]
+  },
+  {
+    "id": "12481192",
+    "predT_not_in_original": [
+      "sodium-dependent noradrenaline transporter",
+      "sodium-dependent serotonin transporter"
+    ]
+  },
+  {
+    "id": "12606631",
+    "predT_not_in_original": [
+      "beta-2 adrenergic receptor",
+      "beta-3 adrenergic receptor"
+    ]
+  },
+  {
+    "id": "12719960",
+    "predT_not_in_original": [
+      "sodium-dependent serotonin transporter"
+    ]
+  },
+  {
+    "id": "16675639",
+    "predT_not_in_original": [
+      "sodium-dependent noradrenaline transporter",
+      "sodium-dependent serotonin transporter"
+    ]
+  },
+  {
+    "id": "19596878",
+    "predT_not_in_original": [
+      "mycobacterium arabinosyltransferase (mycb)"
+    ]
+  },
+  {
+    "id": "11929321",
+    "predT_not_in_original": [
+      "angiotensin-converting enzyme"
+    ]
+  },
+  {
+    "id": "23338224",
+    "predT_not_in_original": [
+      "sodium-dependent serotonin transporter"
+    ]
+  }
+]

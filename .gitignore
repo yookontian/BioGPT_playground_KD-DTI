@@ -1,3 +1,15 @@
+
+fairseq/
+data/
+fastBPE/
+examples/
+mosesdecoder/
+scripts/
+src/
+inference.py/
+requirements.txt
+inference.py
+CODE_OF_CONDUCT.md
 # JetBrains PyCharm IDE
 .idea/
 
