@@ -11,6 +11,7 @@ This repository contains the implementation of [BioGPT: Generative Pre-trained T
 * Python version == 3.10
 * fairseq version == 0.12.0:
 
+Fairseq, a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks
 ``` bash
 git clone https://github.com/pytorch/fairseq
 cd fairseq
@@ -20,6 +21,7 @@ python setup.py build_ext --inplace
 cd ..
 ```
 * Moses
+Moses, a statistical machine translation system that allows you to automatically train translation models for any language pair
 ``` bash
 git clone https://github.com/moses-smt/mosesdecoder.git
 export MOSES=${PWD}/mosesdecoder
@@ -31,6 +33,16 @@ export FASTBPE=${PWD}/fastBPE
 cd fastBPE
 g++ -std=c++11 -pthread -O3 fastBPE/main.cc -IfastBPE -o fast
 ```
+This command is for compiling the C++ code of fastBPE using g++, a GNU compiler for C and C++¹. The command has several options that specify different aspects of the compilation process²³:
+
+1. -std=c++11: This option sets the standard of C++ to use. In this case, it is C++11, which is a version of C++ that introduced many new features and improvements¹.
+2. -pthread: This option enables multithreading support with the POSIX threads library. This can improve the performance and concurrency of the program².
+3. -O3: This option sets the level of optimization to apply to the code. The higher the level, the more optimizations are performed, such as removing unused code, inlining functions, unrolling loops, etc. The level 3 is one of the highest levels of optimization and can make the code run faster but also increase the compilation time and memory usage².
+4. fastBPE/main.cc: This is the name of the source file to compile. It contains the main function and other definitions for fastBPE².
+5. -IfastBPE: This option adds a directory to the list of directories where g++ looks for header files. In this case, it is fastBPE, which contains some header files that are needed by fastBPE².
+6. -o fast: This option specifies the name of the output file to create. In this case, it is fast, which is an executable file that can run fastBPE².
+
+
 * sacremoses
 ``` bash
 pip install sacremoses
