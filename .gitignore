@@ -9,6 +9,7 @@ inference.py/
 requirements.txt
 inference.py
 CODE_OF_CONDUCT.md
+*.pt
 # JetBrains PyCharm IDE
 .idea/
 

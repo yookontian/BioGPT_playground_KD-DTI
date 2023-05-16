@@ -1,33 +1,39 @@
 # from transformers import BioGptTokenizer
 import torch
 import time
+import os
 # import spacy
 
+os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
 
 
-def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
+
+def predict(m, n, pmids, gold_d, min_prob, tokenizer, nlp):
     tokenizer = tokenizer
     min_prob = min_prob
-    # process the input
+    nlp = nlp
+    pmids = pmids
+    gold_d = gold_d
+    m = m
+    n = n
 
+    # process the input
     def get_test_data(id):
         prefix = torch.arange(42384, 42393)
         test_data = {}
         test_data['pmid'] = pmids[id]
         test_data['text'] = gold_d[test_data['pmid']]['title'].strip() + " " + gold_d[test_data['pmid']]['abstract']
-    
-        # for original input file
         if type(test_data['text'][-1]) is int:
-            # no too long text
-            if len(test_data['text']) > 850:
-                test_data['text'] = test_data['text'][:850]
+        # no too long text
+            if len(test_data['text']) > 800:
+                test_data['text'] = test_data['text'][:800]
             test_data['text_tokens'] = torch.Tensor(test_data['text']).long()
-        
+
         # for tokenization optimized input file
         else:
-             # no too long text
-            if len(test_data['text']) > 4800:
-                test_data['text'] = test_data['text'][:4800]
+                # no too long text
+            if len(test_data['text']) > 4500:
+                test_data['text'] = test_data['text'][:4500]
         # get the entity with NER
         original_entities = nlp(test_data['text'].strip().replace('  ', ' '))
         # get no-duplicate and lower entities
@@ -37,8 +43,8 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
         # no "2" in the end
         test_data['text_tokens'] = m.encode(test_data['text'])[:-1]
         test_data['text_tokens_with_prefix'] = torch.cat([test_data['text_tokens'], prefix], dim=-1).unsqueeze(0).cuda()
+        test_data['gold_triples'] = gold_d[test_data['pmid']]['triples']
         return test_data
-
 
     # process the interaction list for usage
     class interaction_tokens():
@@ -70,8 +76,8 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                         if str(ids) not in self.interaction_dict.keys():
                             self.interaction_dict[str(ids)] = None
             self.interaction_dict["[0]"] = list(set(self.interaction_dict["[0]"]))
-
-    # predict the drug and targry
+    
+    # predict the drug
     def drug_target_prediction(
             output_text,
             test_input,
@@ -86,15 +92,14 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
             tokenizer,
             entity_tokens,
             min_prob,
-            between_id=tokenizer.encode("between", add_special_tokens=False)[0],
             and_id=tokenizer.encode("and", add_special_tokens=False)[0],
             is_id=tokenizer.encode("is", add_special_tokens=False)[0],
             ):
 
-        def next_entity_token(output_text, possible_entity_token, drug=False, target=False):
+        def next_entity_token(output_text, possible_entity_token, tokens, drug=False, target=False):
             interaction_token_ids = possible_entity_token
             
-            if drug or (not target):
+            if drug:
                 start_id = tokenizer.encode("between", add_special_tokens=False)[0]
                 end_id = tokenizer.encode("and", add_special_tokens=False, return_tensors="pt").squeeze(0)
             else:
@@ -102,17 +107,11 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                 end_id = tokenizer.encode("is", add_special_tokens=False, return_tensors="pt").squeeze(0)
 
             # if it's the first output of interaction tokens
-            if output_text[-1] == start_id:
+            if len(tokens) == 0:
                 return interaction_token_ids.interaction_dict["[0]"]
             
             else:
-
-                # get the current latest outputted interaction tokens
-                for i in range(len(output_text)-1, 0, -1):
-                    if output_text[i] == start_id:
-                        current_output = output_text[i+1:]
-                        break
-                current_output = [token_id.cpu() for token_id in current_output]
+                current_output = [torch.tensor(token_id).cpu() for token_id in tokens]
                 # print("current_output: ", current_output)
                 assert str(current_output) in interaction_token_ids.interaction_dict.keys()
                 if interaction_token_ids.interaction_dict[str(current_output)] is None:
@@ -139,7 +138,7 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
             choose_which = 0
             while(step < max_step):
                 # drug (single entity mode)
-                next_token_in_entity = next_entity_token(output_text, possible_entity_token, drug=True)
+                next_token_in_entity = next_entity_token(output_text, possible_entity_token, drug_token_ids,drug=True, target=False)
                 # print("possible next drug token:", next_token_in_entity)
                 step += 1
                 out = m.models[0].decoder(test_input)
@@ -201,9 +200,10 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
 
             while(step < max_step):
                 # target (single entity mode)
-                next_token_in_entity = next_entity_token(output_text, possible_entity_token, target=True)
+                next_token_in_entity = next_entity_token(output_text, possible_entity_token, target_token_ids, drug=False, target=True)
                 # print("possible next target token:", next_token_in_entity)
                 step += 1
+                # print("shape of test_input: ", test_input.shape)
                 out = m.models[0].decoder(test_input)
                 softmax_out = torch.softmax(out[0][0][-1], dim=-1)
                 top_k_probs, top_k_indices = torch.topk(softmax_out, len(softmax_out))
@@ -219,16 +219,16 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                                     next_token_id = i + 1
                                     break
                                 else:
-                                    if len(drug_target_pairs) < 1:
-                                        next_token_id = i + 1
+                                    if choose_which < choose_which_target:
+                                        choose_which += 1
                                     else:
-                                        if choose_which < choose_which_target:
-                                            choose_which += 1
+                                        if len(drug_target_pairs) < 1:
+                                            next_token_id = i + 1
                                         else:
                                             if top_k_probs[i].item() >= min_prob:
                                                 next_token_id = i + 1
                                             else:
-                                                # print(f"no more possible targets for {m.decode(drugs[-1])}, try to predict a new drug...")
+                                                print(f"no more possible targets for {m.decode(drugs[-1])}, try to predict a new drug...")
                                                 need_to_predict_new_drug = True
                                         break
                     # if there is no possible target for current drug, then we need to predict a new drug, stop the while loop for target and go to continue
@@ -251,8 +251,10 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                 # prob.append(softmax_out[top_k_indices[next_token_id-1]].item())
                 # ranking.append(next_token_id)
                 if output_text[-1] == is_id:
+                    # print("is")
                     pair = drug_token_ids[:-1] + target_token_ids[:-1]
                     if pair not in drug_target_pairs:
+                        # print("keep going")
                         # print(f'target: {m.decode(output_text)}\n')
                         targets.append(target_token_ids[:-1])
                         drug_target_pairs.append(pair)
@@ -260,13 +262,14 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                         return output_text, test_input, step, drug_target_pairs#, prob, ranking
                     
                     else:
-                        output_text = no_target_output_text
-                        step = no_target_step
-                        test_input = no_target_input
+                        output_text = [x.clone() for x in no_target_output_text]
+                        # step = no_target_step
+                        test_input = no_target_input.clone()
                         # prob = no_target_prob
                         # ranking = last_ranking
                         choose_which_target += 1
-                        # print(f"duplicate target, try to predict {choose_which_target} target...")
+                        print(f"duplicate target, try to predict {choose_which_target} target...")
+                        # print(f"new input: {m.decode(output_text)}")
                         first_token = True
                         target_token_ids = []
 
@@ -274,7 +277,7 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
             if need_to_predict_new_drug:
                 output_text = [x.clone() for x in last_output_text]
                 test_input = last_test_input.clone()
-                step = last_step
+                # step = last_step
                 prob = last_prob
                 ranking = last_ranking
                 choose_which_drug += 1
@@ -284,6 +287,7 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                 print("something wrong, stop here.")
                 return None
 
+            
     # predict interaction
     def interaction_prediction(
             output_text,
@@ -297,46 +301,49 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
             is_id,
             next_id,
             end_id,
-            k
+            k=8000
     ): 
-        def next_interaction_token(output_text, is_id=is_id):
+        def next_interaction_token(output_text, inter_token_ids, is_id=is_id):
             interaction_token_ids = interaction_tokens()
             next_or_end_id = tokenizer.encode("; .", add_special_tokens=False)
 
             # if it's the first output of interaction tokens
-            if output_text[-1] == is_id:
+            if len(inter_token_ids) < 1:
                 return interaction_token_ids.interaction_dict["[0]"]
             
             else:
 
-                # get the current latest outputted interaction tokens
-                for i in range(len(output_text)-1, 0, -1):
-                    if output_text[i] == is_id:
-                        current_output = output_text[i+1:]
-                        break
-                current_output = [token_id.item() for token_id in current_output]
+                current_output = [token_id.item() for token_id in inter_token_ids]
                 assert str(current_output) in interaction_token_ids.interaction_dict.keys()
                 if interaction_token_ids.interaction_dict[str(current_output)] is None:
                     return next_or_end_id
                 else:
                     return interaction_token_ids.interaction_dict[str(current_output)]
                 
-
+        inter_token_ids = []
         while(step < max_step):
             # print(f'output_text: {m.decode(output_text)}\n')
             
-            next_word_in_original = next_interaction_token(output_text)
+            next_word_in_original = next_interaction_token(output_text, inter_token_ids)
             # print("possible next interaction token:", next_word_in_original)
             step += 1
+            # print("test_input: ", test_input)
+            # print("length of test_input: ", len(test_input[0]))
             out = m.models[0].decoder(test_input)
+            # print("out, ok")
             softmax_out = torch.softmax(out[0][0][-1], dim=-1)
+            # print("softmax, ok")
             _, top_k_indices = torch.topk(out[0][0][-1], k=k)
+            # print("top-k, ok")
             for i, token in enumerate(top_k_indices):
-                if token in next_word_in_original:
+                # print("top-k token:", i, token.item())
+                if token.item() in next_word_in_original:
                     next_token_id = i + 1
                     break
             test_input = torch.cat([test_input[0], top_k_indices[next_token_id-1].unsqueeze(0)], dim=-1).unsqueeze(0)
             output_text.append(top_k_indices[next_token_id-1])
+            inter_token_ids.append(top_k_indices[next_token_id-1].unsqueeze(0))
+            # print(f'inter_token_ids: {inter_token_ids}\n')
 
             # prob.append(softmax_out[top_k_indices[next_token_id-1]].item())
             # ranking.append(next_token_id)
@@ -344,91 +351,112 @@ def predict(m, pmids, gold_d, min_prob, tokenizer, nlp):
                 # print(f'output_text: {m.decode(output_text)}\n')
                 break
 
-        
         return output_text, test_input, step#, prob, ranking
-    
 
 
+    # initialize
+    start_time = time.time()
+    # initialize
+    torch.cuda.empty_cache()
+    test_data = get_test_data(n)
+    # test_input_original = test_data['text_tokens_with_prefix']
+    test_input = test_data['text_tokens_with_prefix']
+    if len(test_data['entity_tokens']) < 1:
+        
+        print("no entities, skip this article")
+        return [6, 639, 45]
+    # test_text = test_data['text_tokens'].cuda()
 
-    outputs = []
-    for n, id in enumerate(pmids):
-        # initialize
-        start_time = time.time()
-        test_data = get_test_data(n)
-        test_input = test_data['text_tokens_with_prefix']
+    k = 8000
 
-        k = 8000
+    print(f"start processing: {n + 1}/{len(pmids)}...")
+    is_id = tokenizer.encode("is", add_special_tokens=False)[0]
+    next_id = tokenizer.encode(";", add_special_tokens=False)[0]
+    end_id = tokenizer.encode(".", add_special_tokens=False)[0]
+    output_text = []
+    prob = []
+    ranking = []
+    step = 0
+    max_step = 500
+    # num_tuples = 0
+    drugs = []
+    targets = []
+    num_triplets = 0
+    drug_target_pairs = []
 
-        is_id = tokenizer.encode("is", add_special_tokens=False)[0]
-        next_id = tokenizer.encode(";", add_special_tokens=False)[0]
-        end_id = tokenizer.encode(".", add_special_tokens=False)[0]
-        output_text = []
-        prob = []
-        ranking = []
-        step = 0
-        max_step = 500
-        drugs = []
-        targets = []
-        drug_target_pairs = []
+    with torch.no_grad():
+        m.models[0].decoder.eval()
 
-        with torch.no_grad():
-            m.models[0].decoder.eval()
-            while(step < max_step):
-                last_output_text = [x.clone() for x in output_text]
-                last_prob = prob
-                last_ranking = ranking
-                last_step = step
-                for i in range(3):
-                    step += 1
+        while(step < max_step):
+            # # there is an unsolved bug for n = 706
+            # if n == 706:
+            #     output_text = [6, 639,45]
+            #     break
 
-                    out = m.models[0].decoder(test_input)
+            last_output_text = [x.clone() for x in output_text]
+            last_prob = prob
+            last_ranking = ranking
+            last_step = step
+            for i in range(3):
+                step += 1
 
-                    softmax_out = torch.softmax(out[0][0][-1], dim=-1)
-                    _, top_k_indices = torch.topk(out[0][0][-1], k=k)
-                    top_k_tokens = [tokenizer.convert_ids_to_tokens([indice]) for indice in top_k_indices]
-                    top_k_probs = torch.softmax(out[0][0][-1][top_k_indices], dim=-1)
-                    top_k = [(token, prob.item()) for token, prob in zip(top_k_tokens, top_k_probs)]
-                    # print(f'The top-{k} most possible tokens are:\n{top_k}')
-                    next_token_id = 1
-                    test_input = torch.cat([test_input[0], top_k_indices[next_token_id-1].unsqueeze(0)], dim=-1).unsqueeze(0)
-                    output_text.append(top_k_indices[next_token_id-1])
+                out = m.models[0].decoder(test_input)
 
-                result = drug_target_prediction(
-                    output_text,
-                    test_input,
-                    drugs,
-                    targets,
-                    drug_target_pairs,
-                    step, 
-                    max_step,
-                    prob,
-                    ranking,
-                    m,
-                    tokenizer,
-                    test_data["entity_tokens"],
-                    min_prob
-                    )
-                if result:
-                    output_text, test_input, step, drug_target_pairs = result
+                softmax_out = torch.softmax(out[0][0][-1], dim=-1)
+                _, top_k_indices = torch.topk(out[0][0][-1], k=k)
+                top_k_tokens = [tokenizer.convert_ids_to_tokens([indice]) for indice in top_k_indices]
+                top_k_probs = torch.softmax(out[0][0][-1][top_k_indices], dim=-1)
+                top_k = [(token, prob.item()) for token, prob in zip(top_k_tokens, top_k_probs)]
+                # print(f'The top-{k} most possible tokens are:\n{top_k}')
+                next_token_id = 1
+                test_input = torch.cat([test_input[0], top_k_indices[next_token_id-1].unsqueeze(0)], dim=-1).unsqueeze(0)
+                output_text.append(top_k_indices[next_token_id-1])
+
+                # prob.append(softmax_out[top_k_indices[next_token_id-1]].item())
+                # ranking.append(next_token_id)
+
+            result = drug_target_prediction(
+                output_text=output_text,
+                test_input=test_input,
+                drugs=drugs,
+                targets=targets,
+                drug_target_pairs=drug_target_pairs,
+                step=step, 
+                max_step=max_step,
+                prob=prob,
+                ranking=ranking,
+                m=m,
+                tokenizer=tokenizer,
+                entity_tokens=test_data["entity_tokens"],
+                min_prob=min_prob,
+                )
+            if result:
+                output_text, test_input, step, drug_target_pairs = result
+            else:
+                if len(last_output_text) > 0:
+                    output_text = [x.clone() for x in last_output_text]
                 else:
-                    output_text = last_output_text
-                    # print(f'The final output:{m.decode(output_text)}\n')
-                    break
+                    output_text = [6, 639,45]
+                # print(f'The final output:{m.decode(output_text)}\n')
+                break
 
-                # print(f'output_text: {m.decode(output_text)}\n')
+            # print(f'output_text: {m.decode(output_text)}\n')
 
-                # interactions
-                output_text, test_input, step = interaction_prediction(output_text, test_input, step,
-                                                                        max_step, prob, ranking, m, tokenizer, is_id, next_id, end_id, k)
-                
-                if output_text[-1] == end_id or step >= max_step:
-                    # if step >= max_step:
-                        # print("Steps exceed the maximum steps")
-                    break
-            outputs.append(output_text)
-            end_time = time.time()
-            print(f"{len(outputs)} / {len(pmids)}\nElapsed time: {end_time - start_time}s")
+            # print("test_input after d&t: ", test_input)
+            # interactions
+            output_text, test_input, step = interaction_prediction(output_text, test_input, step,
+                                                                    max_step, prob, ranking, m, tokenizer, is_id, next_id, end_id, k)
+            
+            num_triplets += 1
+            if output_text[-1] == end_id or step >= max_step or num_triplets >= 3:
+                if step >= max_step:
+                    print("Steps exceed the maximum steps")
+                break
+    end_time = time.time()
+    print("final outputs: ", m.decode(output_text))
+    print(f"{n + 1} / {len(pmids)}\nElapsed time: {end_time - start_time}s")
+
+    return output_text
 
 
-
-    return outputs
+    
